@@ -1,4 +1,2 @@
 # MEMECULTURE
-Computational Methods in Humanities- Project
-Generational Linguistic Variation and Change
-Memes and Meme Culture
+Our project is taking a look at the syntactic structure of textual memes. After creating and collecting our corpus of  1,050 memes, we will be tagging all relevant linguistic, morphosyntactic features in each meme. The end result will be a visual representation of what the more frequently used structures are, how frequent or infrequent they are, and where they occur in the meme. This will eventually lead to the answer to our research question: what linguistic features do we, as a generation, deem necessary and unnecessary in order to properly convey information, and why?
