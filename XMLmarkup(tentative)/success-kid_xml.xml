@@ -2,16 +2,18 @@
 <meme>
     <title>success kid</title>
             <text type="top-bottom">
-                <sentence>
-                    <grammar pos="adjective">Late</grammar> 
-                    <grammar pos="preposition">to</grammar> 
-                    <grammar pos="noun">work</grammar>
-                </sentence>
-                <sentence>
-                    <grammar pos="noun">Boss</grammar>
-                    <grammar pos="verb">was</grammar>
-                    <grammar pos="adverb">even</grammar>
-                    <grammar pos="adjective">later</grammar>
-                </sentence>
+                <phrase n="1">
+                    <word pos="noun" presence="null" role="subject"/>
+                    <word pos="verb" presence="null"/>
+                    <word pos="adjective">Late</word> 
+                    <word pos="preposition">to</word> 
+                    <word pos="noun" role="object">work</word>
+                </phrase>
+                <phrase n="2">
+                    <word pos="noun" role="subject">Boss</word>
+                    <word pos="verb">was</word>
+                    <word pos="adverb">even</word>
+                    <word pos="adjective">later</word>
+                </phrase>
             </text>
 </meme>
