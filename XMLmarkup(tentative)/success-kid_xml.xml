@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>success kid</title>
+            <text type="top-bottom">
+                <sentence>
+                    <grammar pos="adjective">Late</grammar> 
+                    <grammar pos="preposition">to</grammar> 
+                    <grammar pos="noun">work</grammar>
+                </sentence>
+                <sentence>
+                    <grammar pos="noun">Boss</grammar>
+                    <grammar pos="verb">was</grammar>
+                    <grammar pos="adverb">even</grammar>
+                    <grammar pos="adjective">later</grammar>
+                </sentence>
+            </text>
+</meme>
