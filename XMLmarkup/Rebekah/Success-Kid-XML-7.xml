@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <phrase n="1">
+            <word pos="N" presence="null" role="SUBJ"/>
+            <word pos="V">Don't</word>
+            <word pos="V">know</word>
+            <word pos="DET">a</word>
+            <word pos="N" role="OBJ">question</word>
+            <word pos="PREP">on</word>
+            <word pos="DET">a</word>
+            <word pos="N">test</word>
+        </phrase>
+        <phrase n="2">
+            <word pos="N" role="SUBJ">Answer</word>
+            <word pos="V">is</word>
+            <word pos="PREP">in</word>
+            <word pos="ADJ">another</word>
+            <word pos="N">question</word>
+        </phrase>
+    </text>
+</meme>
+

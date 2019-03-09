@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <phrase n="1">
+            <word pos="N" presence="null" role="SUBJ"/>
+            <word pos="V">Went</word>
+            <word pos="PREP">to</word>
+            <word pos="N">McDonalds</word>
+            <word pos="N">today</word>
+        </phrase>
+        <phrase n="2">
+            <word pos="CONJ">And</word>
+            <word pos="N" role="SUBJ">I</word>
+            <word pos="V">got</word>
+            <word pos="ADJ">11</word>
+            <word pos="N" role="OBJ">nuggets</word>
+        </phrase>
+    </text>
+</meme>
+
+

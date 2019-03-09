@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <phrase n="1">
+            <word pos="N" presence="null" role="SUBJ"/>
+            <word pos="V">Push</word>
+            <word pos="DET">a</word>
+            <word pos="N" role="OBJ">button</word>
+        </phrase>
+        <phrase n="2">
+            <word pos="N" role="SUBJ">Guy</word>
+            <word pos="PREP">in</word>
+            <word pos="DET">the</word>
+            <word pos="N">TV</word>
+            <word pos="V">jumps</word>
+        </phrase>
+    </text>
+</meme>
+

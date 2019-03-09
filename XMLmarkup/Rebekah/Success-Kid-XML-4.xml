@@ -4,15 +4,14 @@
     <text type="top-bottom">
         <phrase n="1">
             <word pos="N" presence="null" role="SUBJ"/>
-            <word pos="V">Didn't</word>
-            <word pos="V">study</word>
-            <word pos="N" presence="null" role="OBJ"/>
+            <word pos="V" presence="null"/>
+            <word pos="N" role="OBJ">Starburst-2-pack</word>
         </phrase>
         <phrase n="2">
             <word pos="N" presence ="null" role="SUBJ"/>
-            <word pos="V">Got</word>
-            <word pos="DET">an</word>
-            <word pos="N" role="OBJ">A</word>
+            <word pos="CONJ">Both</word>
+            <word pos="ADJ">Pink</word>
         </phrase>
     </text>
 </meme>
+

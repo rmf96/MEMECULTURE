@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <phrase n="1">
+            <word pos="N" presence="null" role="SUBJ"/>
+            <word pos="V">Saw</word>
+            <word pos="ADJ">new</word>
+            <word pos="ADJ">Wolverine</word>
+            <word pos="N" role="OBJ">movie</word>
+        </phrase>
+        <phrase n="2">
+            <word pos="N" presence ="null" role="SUBJ"/>
+            <word pos="V">Remembered</word>
+            <word pos="DET">to</word>
+            <word pos="V">stay</word>
+            <word pos="PREP">for</word>
+            <word pos="DET">the</word>
+            <word pos="ADJ">extra</word>
+            <word pos="N">scene</word>
+            <word pos="PREP">after</word>
+            <word pos="DET">the</word>
+            <word pos="N">credits</word>
+        </phrase>
+    </text>
+</meme>
+
