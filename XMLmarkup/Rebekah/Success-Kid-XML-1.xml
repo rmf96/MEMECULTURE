@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meme>
-    <title>success kid</title>
-            <text type="top-bottom">
-                <phrase n="1">
-                    <word pos="noun" presence="null" role="subject"/>
-                    <word pos="verb" presence="null"/>
-                    <word pos="adjective">Late</word> 
-                    <word pos="preposition">to</word> 
-                    <word pos="noun" role="object">work</word>
-                </phrase>
-                <phrase n="2">
-                    <word pos="noun" role="subject">Boss</word>
-                    <word pos="verb">was</word>
-                    <word pos="adverb">even</word>
-                    <word pos="adjective">later</word>
-                </phrase>
-            </text>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <phrase n="1">
+            <word pos="N" presence="null" role="SUBJ"/>
+            <word pos="V">Didn't</word>
+            <word pos="V">study</word>
+            <word pos="N" presence="null" role="OBJ"
+        </phrase>
+        <phrase n="2">
+            <word pos="N" presence ="null" role="SUBJ"/>
+            <word pos="V">Got</word>
+            <word pos="DET">an</word>
+            <word pos="N" role="OBJ">A</word>
+        </phrase>
+    </text>
 </meme>
