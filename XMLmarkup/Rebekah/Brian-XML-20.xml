@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Makes</phrase>
+            <phrase pos="ADJ">first</phrase>
+            <phrase pos="N" role="OBJ">youtube video</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">No longer available</phrase>
+            <phrase pos="V">Blocked</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="ADJ">copyright</phrase>
+            <phrase pos="N">grounds</phrase>
+        </frag>
+    </text>
+</meme>

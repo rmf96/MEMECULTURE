@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Posts</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N" role="OBJ">video</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="P">him</phrase>
+            <phrase pos="V">doing</phrase>
+            <phrase pos="N">the Harlem Shake</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Song</phrase>
+            <phrase pos="V">loses</phrase>
+            <phrase pos="ADJ">all</phrase>
+            <phrase pos="N" role="OBJ">popularity</phrase>
+        </frag>
+    </text>
+</meme>
+

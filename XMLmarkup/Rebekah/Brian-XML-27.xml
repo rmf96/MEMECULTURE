@@ -4,14 +4,15 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase pos="N" presence="null" role="SUBJ"/>
-            <phrase pos="V">Creates</phrase>
-            <phrase pos="ADJ">imaginary</phrase>
-            <phrase pos="N">girlfriend</phrase>
+            <phrase pos="V">Sentenced</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">life in prison</phrase>
         </frag>
         <frag n="2">
             <phrase pos="N" presence="null" role="SUBJ"/>
-            <phrase pos="V">Gets</phrase>
-            <phrase pos="V">dumped</phrase>
+            <phrase pos="V">Becomes</phrase>
+            <phrase pos="ADJ">immortal</phrase>
         </frag>
     </text>
 </meme>
+

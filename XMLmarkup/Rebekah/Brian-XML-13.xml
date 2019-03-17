@@ -4,14 +4,15 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase pos="N" presence="null" role="SUBJ"/>
-            <phrase pos="V">Creates</phrase>
-            <phrase pos="ADJ">imaginary</phrase>
-            <phrase pos="N">girlfriend</phrase>
+            <phrase pos="V">Bets</phrase>
+            <phrase pos="N">life savings</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="N">super bowl</phrase>
         </frag>
         <frag n="2">
             <phrase pos="N" presence="null" role="SUBJ"/>
-            <phrase pos="V">Gets</phrase>
-            <phrase pos="V">dumped</phrase>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="N">Broncos</phrase>
         </frag>
     </text>
 </meme>
