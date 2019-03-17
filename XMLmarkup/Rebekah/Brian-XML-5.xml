@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Invests</phrase>
+            <phrase pos="PREP">into</phrase>
+            <phrase pos="N">some nostalgia</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Buys</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N" role="OBJ">bakelit disc</phrase>
+            <phrase pos="PREP">instead of</phrase>
+            <phrase pos="DET">an</phrase>
+            <phrase pos="N">SD card</phrase>
+        </frag>
+    </text>
+</meme>

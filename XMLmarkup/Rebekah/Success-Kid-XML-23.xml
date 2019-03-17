@@ -4,15 +4,17 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase pos="N" presence="null" role="SUBJ"/>
-            <phrase pos="V">Farts</phrase>
-            <phrase pos="PREP">in</phrase>
-            <phrase pos="N">class</phrase>
+            <phrase pos="V">Go</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">store</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">AAA batteries</phrase>
         </frag>
         <frag n="2">
             <phrase pos="N" presence="null" role="SUBJ"/>
             <phrase pos="V" presence="null"/>
-            <phrase pos="ADJ">Silent</phrase>
+            <phrase pos="ADJ">Buy 1 Get 1 Free</phrase>
         </frag>
     </text>
 </meme>
-

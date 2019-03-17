@@ -2,23 +2,23 @@
 <meme>
     <title>Success Kid</title>
     <text type="top-bottom">
-        <phrase n="1">
-            <word pos="N" presence="null" role="SUBJ"/>
-            <word pos="V">Don't</word>
-            <word pos="V">know</word>
-            <word pos="DET">a</word>
-            <word pos="N" role="OBJ">question</word>
-            <word pos="PREP">on</word>
-            <word pos="DET">a</word>
-            <word pos="N">test</word>
-        </phrase>
-        <phrase n="2">
-            <word pos="N" role="SUBJ">Answer</word>
-            <word pos="V">is</word>
-            <word pos="PREP">in</word>
-            <word pos="ADJ">another</word>
-            <word pos="N">question</word>
-        </phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Don't</phrase>
+            <phrase pos="V">know</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N" role="OBJ">question</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">test</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Answer</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="ADJ">another</phrase>
+            <phrase pos="N">question</phrase>
+        </frag>
     </text>
 </meme>
 

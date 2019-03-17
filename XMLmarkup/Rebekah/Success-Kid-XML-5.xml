@@ -2,25 +2,25 @@
 <meme>
     <title>Success Kid</title>
     <text type="top-bottom">
-        <phrase n="1">
-            <word pos="N" presence="null" role="SUBJ"/>
-            <word pos="V">Saw</word>
-            <word pos="ADJ">new</word>
-            <word pos="ADJ">Wolverine</word>
-            <word pos="N" role="OBJ">movie</word>
-        </phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Saw</phrase>
+            <phrase pos="ADJ">new</phrase>
+            <phrase pos="ADJ">Wolverine</phrase>
+            <phrase pos="N" role="OBJ">movie</phrase>
+        </frag>
         <phrase n="2">
-            <word pos="N" presence ="null" role="SUBJ"/>
-            <word pos="V">Remembered</word>
-            <word pos="DET">to</word>
-            <word pos="V">stay</word>
-            <word pos="PREP">for</word>
-            <word pos="DET">the</word>
-            <word pos="ADJ">extra</word>
-            <word pos="N">scene</word>
-            <word pos="PREP">after</word>
-            <word pos="DET">the</word>
-            <word pos="N">credits</word>
+            <phrase pos="N" presence ="null" role="SUBJ"/>
+            <phrase pos="V">Remembered</phrase>
+            <phrase pos="DET">to</phrase>
+            <phrase pos="V">stay</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">extra</phrase>
+            <phrase pos="N">scene</phrase>
+            <phrase pos="PREP">after</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">credits</phrase>
         </phrase>
     </text>
 </meme>

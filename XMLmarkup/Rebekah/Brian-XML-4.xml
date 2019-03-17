@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Supports</phrase>
+            <phrase pos="N">the use</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N">blockbots</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Gets</phrase>
+            <phrase pos="ADJ">blocked</phrase>
+        </frag>
+    </text>
+</meme>

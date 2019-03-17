@@ -6,17 +6,15 @@
             <phrase pos="N" presence="null" role="SUBJ"/>
             <phrase pos="V">Went</phrase>
             <phrase pos="PREP">to</phrase>
-            <phrase pos="N">McDonalds</phrase>
-            <phrase pos="N">today</phrase>
+            <phrase pos="N">Taco Bell</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="CONJ">And</phrase>
-            <phrase pos="N" role="SUBJ">I</phrase>
-            <phrase pos="V">got</phrase>
-            <phrase pos="ADJ">11</phrase>
-            <phrase pos="N" role="OBJ">nuggets</phrase>
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="ADV">Accidentally</phrase>
+            <phrase pos="V">gave</phrase>
+            <phrase pos="N" role="OBJ">me</phrase>
+            <phrase pos="ADJ">more</phrase>
+            <phrase pos="N">tacos</phrase>
         </frag>
     </text>
 </meme>
-
-

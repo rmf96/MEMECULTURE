@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Goes</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">Midas</phrase>
+            <phrase pos="V">to get</phrase>
+            <phrase pos="N" role="OBJ">car</phrase>
+            <phrase pos="ADJ">fixed</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Turns</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">gold</phrase>
+        </frag>
+    </text>
+</meme>

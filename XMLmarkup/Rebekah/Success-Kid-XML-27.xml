@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Forgets</phrase>
+            <phrase pos="V">to buy</phrase>
+            <phrase pos="N" role="OBJ">food</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="ADJ">Invited out</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">dinner</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="ADJ">last</phrase>
+            <phrase pos="N">minute</phrase>
+        </frag>
+    </text>
+</meme>

@@ -2,22 +2,22 @@
 <meme>
     <title>Success Kid</title>
         <text type="top-bottom">
-            <phrase n="2">
-                <word pos="N" role="SUBJ">She</word>
-                <word pos="V">thinks</word>
-                <word pos="V">I</word>
-                <word pos="V">cleaned</word>
-                <word pos="PN">my</word>
-                <word pos="N">room</word>
-            </phrase>
-            <phrase n="2">
-                <word pos="N" role="SUBJ">I</word>
-                <word pos="ADV">just</word>
-                <word pos="V">pushed</word>
-                <word pos="N" role="OBJ">shit</word>
-                <word pos="PREP">under</word>
-                <word pos="DET">the</word>
-                <word pos="N">bed</word>
-            </phrase>
+            <frag n="2">
+                <phrase pos="N" role="SUBJ">She</phrase>
+                <phrase pos="V">thinks</phrase>
+                <phrase pos="V">I</phrase>
+                <phrase pos="V">cleaned</phrase>
+                <phrase pos="PN">my</phrase>
+                <phrase pos="N">room</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N" role="SUBJ">I</phrase>
+                <phrase pos="ADV">just</phrase>
+                <phrase pos="V">pushed</phrase>
+                <phrase pos="N" role="OBJ">shit</phrase>
+                <phrase pos="PREP">under</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">bed</phrase>
+            </frag>
         </text>
 </meme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Insulted</phrase>
+            <phrase pos="N" role="OBJ">Bieber</phrase>
+            <phrase pos="PREP">in front</phrase>
+            <phrase pos="DET">of</phrase>
+            <phrase pos="ADJ">fan</phrase>
+            <phrase pos="N">girl</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Lived</phrase>
+        </frag>
+    </text>
+</meme>
