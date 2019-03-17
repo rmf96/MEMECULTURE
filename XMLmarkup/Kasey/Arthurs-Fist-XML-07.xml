@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N">'entry level position'</phrase>
+            <phrase pos="V">*clicks*</phrase>
+            <phrase pos="N">'minimum'</phrase>
+            <phrase pos="N">3-5 years</phrase>
+            <phrase pos="ADJ">related</phrase>
+            <phrase pos="N">work experience</phrase>          
+        </frag>
+    </text>
+</meme>

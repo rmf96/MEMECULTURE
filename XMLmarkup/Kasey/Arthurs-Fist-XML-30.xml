@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">u</phrase>
+            <phrase pos="V">walk</phrase>
+            <phrase pos="PREP">into</phrase>
+            <phrase pos="N" role="OBJ">Sephora</phrase>
+            <phrase pos="ADJ">bare faced</phrase> 
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N" role="SUBJ">they</phrase>
+            <phrase pos="V">talk</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N" role="OBJ">you</phrase>
+            <phrase pos="V">do</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="V">know</phrase>
+            <phrase pos="N">shit</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="N">makeup</phrase>
+        </frag>
+    </text>
+</meme>

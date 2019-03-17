@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">someone</phrase>
+            <phrase pos="V">says</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N" role="OBJ">Hulk</phrase>
+            <phrase pos="PREP">that</phrase>  
+            <phrase pos="N">he</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADJ">puny</phrase>
+        </frag>
+    </text>
+</meme>

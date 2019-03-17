@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="V">closing</phrase>
+            <phrase pos="N" role="OBJ">apps</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="ADV">accidentally</phrase>
+            <phrase pos="V">close</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N" role="OBJ">music app</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">darth vader</phrase>
+            <phrase pos="V">says</phrase>
+            <phrase pos="N" role="SUBJ">he</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="P">your</phrase>
+            <phrase pos="N">father</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">u</phrase>
+            <phrase pos="V">r</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">an</phrase>
+            <phrase pos="V">argument</phrase>
+            <phrase pos="CONJ">but</phrase>
+            <phrase pos="ADV">then</phrase>
+            <phrase pos="N" role="SUBJ">u</phrase>
+            <phrase pos="V">realize</phrase>
+            <phrase pos="N" role="SUBJ">u</phrase>
+            <phrase pos="V">love</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N" role="OBJ">person</phrase>
+            <phrase pos="ADV">unconditionally</phrase>
+        </frag>
+    </text>
+</meme>

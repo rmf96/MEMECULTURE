@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">hear</phrase>
+            <phrase pos="N" role="OBJ">'graphics don't matter'</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="ADJ">video</phrase>
+            <phrase pos="N">games</phrase>
+        </frag>
+    </text>
+</meme>

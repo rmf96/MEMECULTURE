@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N" role="SUBJ">exam question</phrase>
+            <phrase pos="V">says</phrase>
+            <phrase pos="V">explain</phrase>
+            <phrase pos="DET">your</phrase>  
+            <phrase pos="N">answer</phrase>
+        </frag>
+    </text>
+</meme>

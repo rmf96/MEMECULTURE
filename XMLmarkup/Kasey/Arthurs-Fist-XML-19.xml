@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">u</phrase>
+            <phrase pos="V">r</phrase>
+            <phrase pos="V">waiting on</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">text back</phrase>
+            <phrase pos="ADV">then</phrase>
+            <phrase pos="V">realize</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="ADV">haven't</phrase>
+            <phrase pos="ADV">even</phrase>
+            <phrase pos="V">texted</phrase>
+            <phrase pos="N" role="OBJ">them</phrase>
+            <phrase pos="ADV">back</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">them</phrase>
+            <phrase pos="V">to text</phrase>
+            <phrase pos="ADV">back</phrase>
+            
+        </frag>
+    </text>
+</meme>

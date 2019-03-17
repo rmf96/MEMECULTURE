@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">they</phrase>
+            <phrase pos="V">pass</phrase>
+            <phrase pos="N" role="OBJ">you</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">aux</phrase>
+            <phrase pos="CONJ">but</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">have</phrase>
+            <phrase pos="DET">an</phrase>
+            <phrase pos="N" role="OBJ">iPhone 7</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Arthur's Fist</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">offer</phrase>
+            <phrase pos="N" role="OBJ">someone</phrase>
+            <phrase pos="DET">some</phrase>
+            <phrase pos="PREP">of</phrase>   
+            <phrase pos="P">your</phrase>
+            <phrase pos="N">food</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N" role="SUBJ">they</phrase>
+            <phrase pos="V">say</phrase>
+            <phrase pos="N">yeah</phrase>
+        </frag>
+    </text>
+</meme>
