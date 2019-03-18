@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="ADJ">Fine</phrase>
+        <phrase pos="V"><phrase pos="N" role="SUBJ">I</phrase> r just hanging</phrase>
+        <phrase pos="V">chilling</phrase>
+        <phrase pos="ADJ">s-t-u-c-k</phrase>
+        <phrase pos="V"><phrase pos="N">no worries</phrase>, <phrase pos="N">someone</phrase> find <phrase pos="N">me</phrase></phrase>
+    </text>
+</meme>

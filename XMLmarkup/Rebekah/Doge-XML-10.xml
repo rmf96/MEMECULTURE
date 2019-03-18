@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="N" presence="null" role="SUBJ"/>
+        <phrase pos="ADV">many celebrate</phrase>
+        <phrase pos="ADV">such age</phrase>
+        <phrase pos="ADV">very birthday</phrase>
+        <phrase pos="INT">wow</phrase>
+        <phrase pos="V">plz give <phrase pos="N">cake</phrase></phrase>
+        <phrase pos="ADV">so presents</phrase>
+        <phrase pos="V">who's <phrase pos="N">chris</phrase></phrase>
+    </text>
+</meme>
+
