@@ -2,8 +2,9 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" role="SUBJ">wow cron</phrase>
-        <phrase pos="ADV">much lik</phrase>
+        <phrase pos="N" presence ="null" role="SUBJ"/>
+        <phrase pos="N">wow cron</phrase>
+        <phrase pos="V">much lik</phrase>
         <phrase pos="V">eat lik <phrase pos="N">pepil</phrase></phrase>
         <phrase pos="V"><phrase pos="N" role="SUBJ">sheb</phrase> am pepil</phrase>
     </text>

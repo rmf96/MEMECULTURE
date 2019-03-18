@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="V"><phrase pos="N" role="SUBJ">doge</phrase> goes wow</phrase>
+        <phrase pos="V">cats go lol</phrase>
+        <phrase pos="V">memes internally</phrase>
+        <phrase pos="N">much twerk</phrase>
+        <phrase pos="ADJ">so harlem</phrase>
+        <phrase pos="ADJ">post gangnam</phrase>
+    </text>
+</meme>
+

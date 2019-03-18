@@ -3,15 +3,15 @@
     <title>Doge</title>
     <text type="floating">
         <phrase pos="INT">wow</phrase>
-        <phrase pos="ADV">such art</phrase>
-        <phrase pos="INT">so amaze</phrase>
-        <phrase pos="INT">much walpaper</phrase>
-        <phrase pos="INT">very clow</phrase>
-        <phrase pos="ADV">much fierce</phrase>
-        <phrase pos="V">many realistic</phrase>
+        <phrase pos="N">such art</phrase>
+        <phrase pos="ADJ">so amaze</phrase>
+        <phrase pos="N">much walpaper</phrase>
+        <phrase pos="ADJ">very clow</phrase>
+        <phrase pos="ADJ">much fierce</phrase>
+        <phrase pos="ADJ">many realistic</phrase>
         <phrase pos="N" role="SUBJ">leonard doge vinci</phrase>
-        <phrase pos="ADV">much talent</phrase>
-        <phrase pos="ADV">very made by mairou</phrase>
+        <phrase pos="N">much talent</phrase>
+        <phrase pos="V">very made by mairou</phrase>
     </text>
 </meme>
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="INT">wow</phrase>
+        <phrase pos="N" role="SUBJ">much cake</phrase>
+        <phrase pos="V">do want</phrase>
+        <phrase pos="ADJ">such delishus</phrase>
+        <phrase pos="ADJ">good filled</phrase>
+        <phrase pos="N">so cream</phrase>
+        <phrase pos="INT">wow</phrase>
+        <phrase pos="ADJ">amaze</phrase>
+        <phrase pos="N">such sponge</phrase>
+    </text>
+</meme>
+
