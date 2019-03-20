@@ -1,11 +1,11 @@
 start = meme
 meme = element meme {title, format}
 title = element title {text}
-format = element format {type, phrase+}
+format = element format {type, frag+}
 type = attribute type {text}
-phrase = element phrase {n, word+}
+frag = element frag {n, phrase+}
 n = attribute n {text}
-word = element word {pos, presence?, role?, text}
+phrase = element phrase {pos, presence?, role?, text}
 pos = attribute pos {text}
 presence = attribute presence {text}
 role = attribute role {text}
