@@ -14,7 +14,7 @@ body {
 #pages {
     display: none;
 }
-#pages:hover #list {
+#list:hover #pages {
     background-color: black;
     display: block; 
 }

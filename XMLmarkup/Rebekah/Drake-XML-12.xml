@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Getting in the shower</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Being in the shower</phrase>
+        </frag>
+        <frag>
+            <phrase pos="N" role="SUBJ">Getting out of the shower</phrase>
+        </frag>
+    </text>
+</meme>
+

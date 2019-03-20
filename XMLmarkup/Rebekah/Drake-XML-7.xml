@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Movies with talking people</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Movies with talking animals</phrase>
+        </frag>
+    </text>
+</meme>
