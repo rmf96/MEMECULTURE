@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" pos="N">Memes</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" pos="N">Productivity</phrase>
+        </frag>
+    </text>
+</meme>

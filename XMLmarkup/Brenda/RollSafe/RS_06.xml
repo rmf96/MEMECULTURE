@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">You</phrase>
+            <phrase pos="V">can't</phrase>
+            <phrase pos="V">disappoint</phrase>
+            <phrase pos="N">your</phrase>
+            <phrase pos="N">family</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="V">you've</phrase>
+            <phrase pos="ADV">never</phrase>
+            <phrase pos="V">made</phrase>
+            <phrase pos="N">them</phrase>
+            <phrase pos="ADJ">proud</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">first</phrase>
+            <phrase pos="N">place</phrase>
+        </frag>
+    </text>
+</meme>

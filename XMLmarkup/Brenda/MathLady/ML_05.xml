@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Your</phrase>
+            <phrase pos="N">total</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="N">$9.95</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">hands</phrase>
+            <phrase pos="N">cash</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">types</phrase>
+            <phrase pos="N">amount</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">system</phrase>
+        </frag>
+        <frag n="4">
+            <phrase pos="IN">oh</phrase>
+            <phrase pos="ADV">here</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="N">30 cents</phrase>
+        </frag>
+    </text>
+</meme>

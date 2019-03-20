@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="ADV">actually</phrase>
+            <phrase pos="V">talking</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">girls</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">making</phrase>
+            <phrase pos="N">posts</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="V">wanting</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">gf</phrase>
+        </frag>
+    </text>
+</meme>

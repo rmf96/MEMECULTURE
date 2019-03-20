@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="N">hey</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">have</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">cone</phrase>
+            <phrase pos="ADV">where</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">length</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">diagonal</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N">angle</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="V">given</phrase>
+            <phrase pos="N">what</phrase>
+            <phrase pos="V">'s</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">volume</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="DET">which</phrase>
+            <phrase pos="N">formulas</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="ADJ">useful</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="null">...</phrase>
+        </frag>
+    </text>
+</meme>

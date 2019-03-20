@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V"> hear</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">government</phrase>
+            <phrase pos="N">employee</phrase>
+            <phrase pos="V">complaining</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="V">needing</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">raise</phrase>
+            <phrase pos="PREP">because</phrase>
+            <phrase pos="N">taxes</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="ADV">too</phrase>
+            <phrase pos="ADJ">high</phrase>
+        </frag>
+    </text>
+</meme>

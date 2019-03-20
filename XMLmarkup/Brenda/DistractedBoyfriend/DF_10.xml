@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" pos="N">College</phrase>
+            <phrase role="SUBJ" pos="N">parents</phrase>
+            <phrase role="SUBJ" pos="N">capitalism</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Running</phrase>
+            <phrase pos="ADV">away</phrase>
+            <phrase pos="V">to live</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">woods</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Takes</phrase>
+            <phrase pos="N"> psych 101</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Starts</phrase>
+            <phrase pos="V">analyzing</phrase>
+            <phrase pos="N">everyone</phrase>
+            <phrase pos="N">he</phrase>
+            <phrase pos="V">knows</phrase>
+        </frag>
+    </text>
+</meme>

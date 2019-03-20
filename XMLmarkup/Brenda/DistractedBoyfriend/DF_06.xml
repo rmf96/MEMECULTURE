@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="">Almost</phrase>
+            <phrase pos="">expired</phrase>
+            <phrase pos="N">milk</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" pos="N">Milk</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="N">expiration</phrase>
+            <phrase pos="N">date</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="ADJ">least</phrase>
+            <phrase pos="N">2 weeks</phrase>
+            <phrase pos="ADV">away</phrase>
+        </frag>
+    </text>
+</meme>

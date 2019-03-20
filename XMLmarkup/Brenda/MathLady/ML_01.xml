@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Me</phrase>
+            <phrase pos="V">trying</phrase>
+            <phrase pos="V"> to understand</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">MATHLAB code</phrase>
+            <phrase pos="N">I</phrase>
+            <phrase pos="V">wrote</phrase>
+            <phrase pos="N">3 weeks</phrase>
+            <phrase pos="PREP">ago</phrase>
+        </frag>
+     </text>
+</meme>

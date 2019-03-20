@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Buys</phrase>
+            <phrase pos="DET">all</phrase>
+            <phrase pos="ADJ">recommended</phrase>
+            <phrase pos="N">textbooks</phrase>
+        </frag>
+    </text>
+</meme>

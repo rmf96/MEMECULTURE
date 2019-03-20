@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Loves</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">freedom</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N">college life</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Drives</phrase>
+            <phrase pos="N">home</phrase>
+            <phrase pos="">every</phrase>
+            <phrase pos="N">weekend</phrase>
+            <phrase pos="PREP">so</phrase>
+            <phrase pos="N">mom</phrase>
+            <phrase pos="V">can do</phrase>
+            <phrase pos="N">his</phrase>
+            <phrase pos="N">laundry</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="">Sorry</phrase>
+            <phrase pos="">we</phrase>
+            <phrase pos="">Can't</phrase>
+            <phrase pos="">do</phrase>
+            <phrase pos="">that</phrase>
+            <phrase pos="">for</phrase>
+            <phrase pos="">you</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="IN">Aw, okay</phrase>
+        </frag>
+        <frag n="3">
+            <phrase>...</phrase>
+        </frag>
+    </text>
+</meme>
