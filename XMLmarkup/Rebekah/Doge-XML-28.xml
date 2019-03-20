@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="N" presence="null" role="SUBJ"/>
+        <phrase pos="N">so education</phrase>
+        <phrase pos="INT">wow</phrase>
+        <phrase pos="N">such knowledge</phrase>
+        <phrase pos="N">much powerpoints</phrase>
+        <phrase pos="N">very website</phrase>
+    </text>
+</meme>
+

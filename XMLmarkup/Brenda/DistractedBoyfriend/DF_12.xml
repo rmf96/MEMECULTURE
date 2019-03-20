@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="DET">The</phrase>
+            <phrase pos="ADJ">raw</phrase>
+            <phrase pos="V">bleeding</phrase>
+            <phrase pos="N">roof</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N">my</phrase>
+            <phrase role="SUBJ" pos="N">mouth</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="DET">another</phrase>
+            <phrase pos="N">bowl</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N">Cap'n Crunch</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ"  pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" pos="N">Solar eclipse</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" pos="N">Scientific evidence</phrase>
+            <phrase pos="V">supporting</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">dangers</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="V">staring</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">sun</phrase>
+        </frag>
+    </text>
+</meme>

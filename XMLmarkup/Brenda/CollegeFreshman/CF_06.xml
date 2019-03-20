@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N">Nobody</phrase>
+            <phrase pos="PREP">around</phrase>
+            <phrase pos="ADV">here</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">very</phrase>
+            <phrase pos="ADJ">friendly</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Wears</phrase>
+            <phrase pos="N">earbuds</phrase>
+            <phrase pos="ADV">everywhere</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">always</phrase>
+            <phrase pos="V">looking</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="N">his</phrase>
+            <phrase pos="N">phone</phrase>
+        </frag>
+    </text>
+</meme>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Go</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">store</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">AAA batteries</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="ADJ">Buy 1 Get 1 Free</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="ADV">Only</phrase>
+            <phrase pos="V">do</phrase>
+            <phrase pos="DET">half</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="DET">each</phrase>
+            <phrase pos="N">task</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="N">bottom</phrase>
+            <phrase pos="N">text</phrase>
+        </frag>
+    </text>
+</meme>

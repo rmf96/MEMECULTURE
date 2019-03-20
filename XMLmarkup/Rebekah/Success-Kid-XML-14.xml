@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="ADV">Just</phrase>
+            <phrase pos="V">figured out</phrase>
+            <phrase pos="ADV">how</phrase>
+            <phrase pos="DET">to</phrase>
+            <phrase pos="V">make</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N" role="OBJ">meme</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Gets</phrase>
+            <phrase pos="ADJ">posted</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="ADJ">Featured</phrase>
+            <phrase pos="N">Page</phrase>
+        </frag>
+    </text>
+</meme>

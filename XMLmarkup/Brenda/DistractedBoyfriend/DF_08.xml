@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase pos="DET">The</phrase>
+            <phrase pos="ADJ">whole</phrase>
+            <phrase role="SUBJ" presence="null" pos="N">world</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="">Peace</phrase>
+            <phrase pos="">and</phrase>
+            <phrase pos="">love</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" presence="null" pos="N">Ignorance</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Goes</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">beach</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="N">shark week</phrase>
+        </frag>
+    </text>
+</meme>

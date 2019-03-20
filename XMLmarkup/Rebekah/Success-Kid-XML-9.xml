@@ -2,16 +2,16 @@
 <meme>
     <title>Success Kid</title>
     <text type="top-bottom">
-        <phrase n="1">
-            <word pos="ADJ">First</word>
-            <word pos="N" role="SUBJ">pull</word>
-            <word pos="V" presence="null"/>
-        </phrase>
-        <phrase n="2">
-            <word pos="N" role="SUBJ">Lawnmower</word>
-            <word pos="V" presence="null"/>
-            <word pos="ADJ">on</word>
-        </phrase>
+        <frag n="1">
+            <phrase pos="ADJ">First</phrase>
+            <phrase pos="N" role="SUBJ">pull</phrase>
+            <phrase pos="V" presence="null"/>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Lawnmower</phrase>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="ADJ">on</phrase>
+        </frag>
     </text>
 </meme>
 

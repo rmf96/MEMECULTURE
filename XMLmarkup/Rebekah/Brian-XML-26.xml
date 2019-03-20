@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="ADJ">First</phrase>
+            <phrase pos="N">day</phrase>
+            <phrase pos="N">driving</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">school</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Forgets</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="V">rides</phrase>
+            <phrase pos="N" role="OBJ">bus</phrase>
+            <phrase pos="N">home</phrase>
+        </frag>
+    </text>
+</meme>

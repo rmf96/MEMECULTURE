@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Puzzle</phrase>
+            <phrase pos="V">says</phrase>
+            <phrase pos="N">2-4 years</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="ADV">only</phrase>
+            <phrase pos="V">took</phrase>
+            <phrase pos="N">1</phrase>
+        </frag>
+    </text>
+</meme>

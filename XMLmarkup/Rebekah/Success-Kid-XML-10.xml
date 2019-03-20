@@ -2,20 +2,20 @@
 <meme>
     <title>Success Kid</title>
     <text type="top-bottom">
-        <phrase n="1">
-            <word pos="N" presence="null" role="SUBJ"/>
-            <word pos="V">Went</word>
-            <word pos="PREP">to</word>
-            <word pos="N">McDonalds</word>
-            <word pos="N">today</word>
-        </phrase>
-        <phrase n="2">
-            <word pos="CONJ">And</word>
-            <word pos="N" role="SUBJ">I</word>
-            <word pos="V">got</word>
-            <word pos="ADJ">11</word>
-            <word pos="N" role="OBJ">nuggets</word>
-        </phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Went</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">McDonalds</phrase>
+            <phrase pos="N">today</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="CONJ">And</phrase>
+            <phrase pos="N" role="SUBJ">I</phrase>
+            <phrase pos="V">got</phrase>
+            <phrase pos="ADJ">11</phrase>
+            <phrase pos="N" role="OBJ">nuggets</phrase>
+        </frag>
     </text>
 </meme>
 

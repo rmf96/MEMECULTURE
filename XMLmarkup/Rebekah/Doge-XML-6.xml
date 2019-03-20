@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="INT">wow</phrase>
+        <phrase pos="N">such art</phrase>
+        <phrase pos="ADJ">so amaze</phrase>
+        <phrase pos="N">much walpaper</phrase>
+        <phrase pos="ADJ">very clow</phrase>
+        <phrase pos="ADJ">much fierce</phrase>
+        <phrase pos="ADJ">many realistic</phrase>
+        <phrase pos="N" role="SUBJ">leonard doge vinci</phrase>
+        <phrase pos="N">much talent</phrase>
+        <phrase pos="V">very made by mairou</phrase>
+    </text>
+</meme>
+

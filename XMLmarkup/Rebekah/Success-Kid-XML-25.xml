@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Arrives</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="N">bus stop</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Bus</phrase>
+            <phrase pos="V">comes</phrase>
+            <phrase pos="N">30 seconds</phrase>
+            <phrase pos="ADV">early</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Becomes</phrase>
+            <phrase pos="ADJ">internet</phrase>
+            <phrase pos="N" role="OBJ">meme</phrase>
+            <phrase pos="V">starts</phrase>
+            <phrase pos="ADJ">youtube</phrase>
+            <phrase pos="N" role="OBJ">channel</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">nobody</phrase>
+            <phrase pos="V">subscribes</phrase>
+            <phrase pos="N" role="SUBJ">everybody</phrase>
+            <phrase pos="V">still mocks</phrase>
+            <phrase pos="N" role="OBJ">picture</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="N">7th grade</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Willy Wonka and the Chocolate Factory</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADJ">on</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="ADJ">1977</phrase>
+            <phrase pos="N" >version</phrase>
+        </frag>
+    </text>
+</meme>
+
+

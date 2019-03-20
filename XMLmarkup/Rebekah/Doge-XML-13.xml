@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="N" presence="null" role="SUBJ"/>
+        <phrase pos="INT">wow</phrase>
+        <phrase pos="N">much fun</phrase>
+        <phrase pos="INT">such wow</phrase>
+        <phrase pos="N">much eyes</phrase>
+        <phrase pos="ADJ">much adorable</phrase>
+    </text>
+</meme>
+

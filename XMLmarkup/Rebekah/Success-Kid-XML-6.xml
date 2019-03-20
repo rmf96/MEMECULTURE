@@ -2,17 +2,17 @@
 <meme>
     <title>Success Kid</title>
     <text type="top-bottom">
-        <phrase n="1">
-            <word pos="N" presence="null" role="SUBJ"/>
-            <word pos="V">Farts</word>
-            <word pos="PREP">in</word>
-            <word pos="N">class</word>
-        </phrase>
-        <phrase n="2">
-            <word pos="N" presence="null" role="SUBJ"/>
-            <word pos="V" presence="null"/>
-            <word pos="ADJ">Silent</word>
-        </phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Farts</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">class</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="ADJ">Silent</phrase>
+        </frag>
     </text>
 </meme>
 

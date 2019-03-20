@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Dog</phrase>
+            <phrase pos="V">plays</phrase>
+            <phrase pos="N" role="OBJ">dead</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="ADV">Actually</phrase>
+            <phrase pos="V">dies</phrase>
+        </frag>
+    </text>
+</meme>

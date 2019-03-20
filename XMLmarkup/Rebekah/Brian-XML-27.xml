@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Sentenced</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">life in prison</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Becomes</phrase>
+            <phrase pos="ADJ">immortal</phrase>
+        </frag>
+    </text>
+</meme>
+

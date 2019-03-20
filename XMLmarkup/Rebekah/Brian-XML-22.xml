@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Turns</phrase>
+            <phrase pos="N" role="OBJ">airplane mode</phrase>
+            <phrase pos="PREP">on</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Flies</phrase>
+            <phrase pos="ADJ">away</phrase>
+        </frag>
+    </text>
+</meme>

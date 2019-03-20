@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Is</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">lead</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">an</phrase>
+            <phrase pos="ADJ">important</phrase>
+            <phrase pos="ADJ">running</phrase>
+            <phrase pos="N">event</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Leg</phrase>
+            <phrase pos="V">falls</phrase>
+            <phrase pos="PREP">through</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">ground</phrase>
+            <phrase pos="PREP">due to</phrase>
+            <phrase pos="ADJ">ADJ</phrase>
+            <phrase pos="N">tunneling</phrase>
+        </frag>
+    </text>
+</meme>

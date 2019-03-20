@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Can't</phrase>
+            <phrase pos="V">have</phrase>
+            <phrase pos="N">patriarchy</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">have</phrase>
+            <phrase pos="DET">no</phrase>
+            <phrase pos="N">hierarchies</phrase>
+        </frag>
+    </text>
+</meme>

@@ -2,18 +2,18 @@
 <meme>
     <title>Success Kid</title>
             <text type="top-bottom">
-                <phrase n="1">
-                    <word pos="N" presence="null" role="SUBJ"/>
-                    <word pos="V" presence="null"/>
-                    <word pos="ADJ">Late</word> 
-                    <word pos="PREP">to</word> 
-                    <word pos="N" role="OBJ">work</word>
-                </phrase>
-                <phrase n="2">
-                    <word pos="N" role="SUBJ">Boss</word>
-                    <word pos="V">was</word>
-                    <word pos="ADV">even</word>
-                    <word pos="ADJ">later</word>
-                </phrase>
+                <frag n="1">
+                    <phrase pos="N" presence="null" role="SUBJ"/>
+                    <phrase pos="V" presence="null"/>
+                    <phrase pos="ADJ">Late</phrase> 
+                    <phrase pos="PREP">to</phrase> 
+                    <phrase pos="N" role="OBJ">work</phrase>
+                </frag>
+                <frag n="2">
+                    <phrase pos="N" role="SUBJ">Boss</phrase>
+                    <phrase pos="V">was</phrase>
+                    <phrase pos="ADV">even</phrase>
+                    <phrase pos="ADJ">later</phrase>
+                </frag>
             </text>
 </meme>

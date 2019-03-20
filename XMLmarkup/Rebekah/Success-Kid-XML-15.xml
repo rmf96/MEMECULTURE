@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Success Kid</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Handed</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="ADJ">two paragraph</phrase>
+            <phrase pos="N" role="OBJ">essay</phrase>
+            <phrase pos="ADV">when</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">teacher</phrase>
+            <phrase pos="V">asked</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="ADJ">five</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V" presence="null"/>
+            <phrase pos="DET">The</phrase>
+            <phrase pos="ADJ">only</phrase>
+            <phrase pos="N">paper</phrase>
+            <phrase pos="P">that</phrase>
+            <phrase pos="V">did</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="V">get</phrase>
+            <phrase pos="ADJ">handed back</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">rewrite</phrase>
+        </frag>
+    </text>
+</meme>

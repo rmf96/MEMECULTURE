@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="DET">There</phrase>
+            <phrase pos="V">can't</phrase>
+            <phrase pos="V">be</phrase>
+            <phrase pos="DET">any</phrase>
+            <phrase pos="N">tax</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="DET">there</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="DET">no</phrase>
+            <phrase pos="ADJ">such</phrase>
+            <phrase pos="N">thing</phrase>
+            <phrase pos="PREP">as</phrase>
+            <phrase pos="N">money</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">first</phrase>
+            <phrase pos="N">place</phrase>
+        </frag>
+    </text>
+</meme>

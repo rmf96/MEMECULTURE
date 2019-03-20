@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Bad Luck Brian</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Searches</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">memes</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="N">googe image search</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Finds</phrase>
+            <phrase pos="ADJ">shitty</phrase>
+            <phrase pos="N" role="OBJ">image macros</phrase>
+            <phrase pos="PREP">like</phrase>
+            <phrase pos="N">these</phrase>
+        </frag>
+    </text>
+</meme>

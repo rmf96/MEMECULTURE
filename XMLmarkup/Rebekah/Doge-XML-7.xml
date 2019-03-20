@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Doge</title>
+    <text type="floating">
+        <phrase pos="N" presence ="null" role="SUBJ"/>
+        <phrase pos="N">wow cron</phrase>
+        <phrase pos="V">much lik</phrase>
+        <phrase pos="V">eat lik <phrase pos="N">pepil</phrase></phrase>
+        <phrase pos="V"><phrase pos="N" role="SUBJ">sheb</phrase> am pepil</phrase>
+    </text>
+</meme>
+
