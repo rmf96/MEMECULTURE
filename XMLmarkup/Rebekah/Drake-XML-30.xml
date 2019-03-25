@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Spend my time effectively and productively</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="V">Do nothing all day</phrase>
+        </frag>
+    </text>
+</meme>

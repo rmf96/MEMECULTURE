@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Actual programming</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Debating</phrase>
+            <phrase pos="PREP">for 30 minutes</phrase>
+            <phrase pos="PREP">on how to name a variable</phrase>
+        </frag>
+    </text>
+</meme>
