@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Greatly insightful, researched, and intelligent analyses</phrase>
+            <phrase pos="PREP">of the Myers-Briggs theory</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Completely nonsensical MBTI sh*t posts</phrase>
+            <phrase pos="PREP">with absolutely no scientific basis</phrase>
+        </frag>
+    </text>
+</meme>

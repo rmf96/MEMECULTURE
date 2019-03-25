@@ -3,16 +3,14 @@
     <title>Drake</title>
     <text type="top-bottom">
         <frag n="1">
-            <phrase pos="N" role="SUBJ">we</phrase>
-            <phrase pos="V">are all attracted to people like our parents</phrase>
-            <phrase pos="N">we</phrase>
-            <phrase pos="V" role="SUBJ">all grow up to be our parents</phrase>
+            <phrase pos="N" role="SUBJ">Being safe</phrase>
+            <phrase pos="N">from online scammers and predators</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="V">if <phrase pos="N" role="SUBJ">someone</phrase> positively influences us</phrase>
-            <phrase pos="V"><phrase pos="N" role="SUBJ">they</phrase> will naturally have traits that we admire</phrase>
-            <phrase pos="V">and <phrase pos="N" role="SUBJ">it</phrase> only makes sense</phrase>
-            <phrase pos="V">that <phrase pos="N" role="SUBJ">we</phrase> will seek those traits out in others or try to emulate them as we grow</phrase>
+            <phrase pos="N" role="SUBJ">Being the 100th user</phrase>
+            <phrase pos="N">on the site</phrase>
+            <phrase pos="V">and just having to click here</phrase>
+            <phrase pos="V">to claim millions of dollars</phrase>
         </frag>
     </text>
 </meme>

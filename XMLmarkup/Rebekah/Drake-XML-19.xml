@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Using a normally accepted method</phrase>
+            <phrase pos="V">to accomplish a programming task</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Using stupid shit</phrase>
+            <phrase pos="PREP">that a programmer would never do</phrase>
+            <phrase pos"V">to get karma</phrase>
+        </frag>
+    </text>
+</meme>

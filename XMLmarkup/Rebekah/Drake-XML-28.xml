@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Getting on memedroid</phrase>
+            <phrase pos="PREP">for memes</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Getting on memedroid</phrase>
+            <phrase pos="PREP">to read comments</phrase>
+        </frag>
+    </text>
+</meme>
