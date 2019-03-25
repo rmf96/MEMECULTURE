@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Me</phrase>
+            <phrase pos="V">trying to figure out</phrase>
+            <phrase pos="ADV">how</phrase>
+            <phrase pos="ADV">long</phrase>
+            <phrase pos="V">I'll need to spend</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">shower</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="N">I</phrase>
+            <phrase pos="ADV">ever</phrase>
+            <phrase pos="V">want to feel</phrase>
+            <phrase pos="ADJ">clean</phrase>
+            <phrase pos="ADV">again</phrase>
+        </frag>
+    </text>
+</meme>

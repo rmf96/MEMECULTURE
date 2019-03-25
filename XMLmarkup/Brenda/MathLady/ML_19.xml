@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">come back to</phrase>
+            <phrase pos="ADV">school</phrase>
+            <phrase pos="ADV">after</phrase>
+            <phrase pos="V">2 weeks</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="CONJ">And</phrase>
+            <phrase pos="N">must write</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">test</phrase>
+            <phrase pos="CONJ">that</phrase>
+            <phrase pos="ADV">you</phrase>
+            <phrase pos="V">never heaard of"</phrase>
+        </frag>
+    </text>
+</meme>

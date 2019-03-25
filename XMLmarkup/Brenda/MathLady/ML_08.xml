@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Getting</phrase>
+            <phrase pos="N">dejavu</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="V">wondering</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="ADV">accidently</phrase>
+            <phrase pos="V">traveled back</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">time</phrase>
+        </frag>
+
+    </text>
+</meme>

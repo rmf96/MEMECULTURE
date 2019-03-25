@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Professor</phrase>
+            <phrase pos="V">finishes going over</phrase>
+            <phrase pos="N">syllabus</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="V">Wait</phrase>
+            <phrase pos="ADV">so</phrase>
+            <phrase pos="V">do... have</phrase>
+            <phrase role="SUBJ" pos="N">we</phrase>
+            <phrase pos="N">homework</phrase>
+        </frag>
+    </text>
+</meme>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="ADV">Just</phrase>
+            <phrase pos="V">came</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">gym</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Stood</phrase>
+            <phrase pos="ADV">around</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">bench press</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="V">talked</phrase>
+        </frag>
+    </text>
+</meme>
+

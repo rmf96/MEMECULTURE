@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Do not cite</phrase>
+            <phrase pos="N">Wikipedia</phrase>
+            <phrase pos="V">cite</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">sources</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="N">Wikipedia</phrase>
+        </frag>
+    </text>
+</meme>

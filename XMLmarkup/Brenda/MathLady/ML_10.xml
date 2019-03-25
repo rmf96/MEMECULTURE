@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">order</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase role="OBJ" pos="N">sprite</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="N">Dominos</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="CONJ">And</phrase>
+            <phrase pos="V">it says</phrase>
+            <phrase pos="N">your order</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">oven</phrase>
+        </frag>
+    </text>
+</meme>

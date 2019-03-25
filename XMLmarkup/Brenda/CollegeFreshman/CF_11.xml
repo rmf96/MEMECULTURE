@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">I</phrase>
+            <phrase pos="V">am</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">sophomore</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="PREP">IF</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">mean</phrase>
+            <phrase pos="PREP">by</phrase>
+            <phrase pos="N">credits</phrase>
+        </frag>
+    </text>
+</meme>
+
+

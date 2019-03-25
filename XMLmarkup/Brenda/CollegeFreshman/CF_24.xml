@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Disregard</phrase>
+            <phrase pos="N">sleep</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Acquire</phrase>
+            <phrase role="OBJ" pos="N">nothing</phrase>
+        </frag>
+    </text>
+</meme>
+

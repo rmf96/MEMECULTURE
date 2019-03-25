@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase role="SUBJ" pos="N">You</phrase>
+            <phrase pos="V">find out you have</phrase>
+            <phrase pos="N">fingertips</phrase>
+            <phrase pos="CONJ">but</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="N">toetips</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="ADV">Yet</phrase>
+            <phrase pos="N">You</phrase>
+            <phrase pos="V">can tiptoe...tipfiger</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos=""></phrase>
+        </frag>
+    </text>
+</meme>
+

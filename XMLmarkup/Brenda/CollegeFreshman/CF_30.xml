@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">I</phrase>
+            <phrase pos="V">have</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="ADJ">unique</phrase>
+            <phrase pos="N">sense of style</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="V" presence="null"/>
+            <phrase pos="N">College sweatshirt and nikes</phrase>
+            <phrase pos="ADJ">everyday</phrase>
+        </frag>
+    </text>
+</meme>
+

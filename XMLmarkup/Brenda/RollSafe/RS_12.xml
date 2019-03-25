@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">You</phrase>
+            <phrase pos="">can't have</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="ADJ">mid-life</phrase>
+            <phrase pos="N">crisis</phrase>
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="N">your entire life</phrase>>
+            <phrase pos="V">is</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">crisis</phrase>
+        </frag>
+    </text>
+</meme>

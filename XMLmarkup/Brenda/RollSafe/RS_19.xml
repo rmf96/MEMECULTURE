@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ"  pos="N">You</phrase>
+            <phrase pos="V">can't break up</phrase>
+            <phrase pos="N">your girlfriend</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="PREP">If</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">don't have</phrase>
+            <phrase pos="N">one</phrase>
+        </frag>
+    </text>
+</meme>

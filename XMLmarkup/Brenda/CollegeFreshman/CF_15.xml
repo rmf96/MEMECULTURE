@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Asks</phrase>
+            <phrase pos="ADV">where</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">building</phrase>
+            <phrase pos="V">is</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">While</phrase>
+            <phrase pos="PREP">he's</phrase>
+            <phrase pos="ADV">already</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">it</phrase>
+        </frag>
+    </text>
+</meme>
+

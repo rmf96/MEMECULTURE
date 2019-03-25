@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Harry</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" pos="N">Ron and Hermione</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="N">dangerous situations</phrase>
+            <phrase pos="PREP">that</phrase>
+            <phrase pos="V">result in dying</phrase>
+        </frag>
+    </text>
+</meme>

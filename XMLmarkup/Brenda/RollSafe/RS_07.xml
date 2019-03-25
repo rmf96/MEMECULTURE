@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">You</phrase>
+            <phrase pos="">can't</phrase>
+            <phrase pos="">form</phrase>
+            <phrase pos="">a</phrase>
+            <phrase pos="">union</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="">If</phrase>
+            <phrase role="SUBJ" pos="">we</phrase>
+            <phrase pos="">fire</phrase>
+            <phrase pos="">everyone</phrase>
+            <phrase pos="">if</phrase>
+            <phrase pos="">anybody</phrase>
+            <phrase pos="">even</phrase>
+            <phrase pos="">talks</phrase>
+            <phrase pos="">about</phrase>
+            <phrase pos="">it</phrase>
+        </frag>
+    </text>
+</meme>

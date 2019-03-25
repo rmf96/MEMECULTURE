@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Lend</phrase>
+            <phrase role ="OBJ" pos="N">him your pen</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">10 seconds</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">class</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">friend requests</phrase>
+            <phrase pos="N">you</phrase>
+        </frag>
+    </text>
+</meme>
+

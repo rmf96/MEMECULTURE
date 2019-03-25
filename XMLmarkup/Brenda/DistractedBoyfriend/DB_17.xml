@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N">important stuff like school, friends, and sleep</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="V">Obsessing</phrase>
+            <phrase role="OBJ" pos="N">over fictional characters and people I</phrase>
+            <phrase pos="V">'ll...meet</phrase>
+            <phrase pos="ADV">never</phrase>
+        </frag>
+    </text>
+</meme>

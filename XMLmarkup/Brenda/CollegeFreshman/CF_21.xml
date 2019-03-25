@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Hates</phrase>
+            <phrase pos="N">rival college</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">passion</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">didn't know</phrase>
+            <phrase pos="N">rivalry</phrase>
+            <phrase pos="V">existed</phrase>
+            <phrase pos="PREP">until</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">week</phrase>
+            <phrase pos="PREP">ago</phrase>
+        </frag>
+    </text>
+</meme>
+

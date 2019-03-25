@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="PREP">If</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="">can convert</phrase>
+            <phrase pos="N">kinetic energy</phrase>
+            <phrase pos="V">to</phrase>
+            <phrase pos="N">thermal energy</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="">Does</phrase>
+            <phrase pos="PREP">that</phrase>
+            <phrase pos="">mean</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="">can make</phrase>
+            <phrase pos="">fried chicke</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="PREP">by</phrase>
+            <phrase pos="V">punching</phrase>
+            <phrase role ="OBJ" pos="N">it</phrase>
+        </frag>
+    </text>
+</meme>

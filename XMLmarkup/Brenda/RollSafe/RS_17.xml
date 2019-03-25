@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">We</phrase>
+            <phrase pos="V">won't need to grant</phrase>
+            <phrase pos="N">robots</phrase>
+            <phrase pos="N">rights</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="PREP">If</phrase>
+            <phrase role="SUBJ" pos="N">we</phrase>
+            <phrase pos="V">don't make</phrase>
+            <phrase pos="N">them</phrase>
+            <phrase pos="ADJ">smart enough</phrase>>
+        </frag>
+    </text>
+</meme>

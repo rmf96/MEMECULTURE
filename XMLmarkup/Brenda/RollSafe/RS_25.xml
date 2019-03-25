@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">genie</phrase>
+            <phrase pos="V">tells</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="PREP">that</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">can't wish</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="ADJ">more</phrase>
+            <phrase pos="N">wishes</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="V">wish</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="ADJ">more</phrase>
+            <phrase pos="N">genies</phrase>
+        </frag>
+    </text>
+</meme>

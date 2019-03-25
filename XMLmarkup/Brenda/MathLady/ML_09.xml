@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">topic</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">'re discussing is</phrase>
+            <phrase pos="ADJ">general and random</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N">And paranoid people</phrase>
+            <phrase pos="V">think you're talking</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="N">them</phrase>
+        </frag>
+    </text>
+</meme>

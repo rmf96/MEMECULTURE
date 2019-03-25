@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N">normal healthy sleep schedule</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="V">Staying up</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="DET">no</phrase>
+            <phrase pos="N">reason</phrase>
+        </frag>
+    </text>
+</meme>
