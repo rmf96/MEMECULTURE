@@ -12,7 +12,7 @@
         </frag>
         <frag n="2">
             <phrase pos="V">Can</phrase>
-            <phrase pos="N">I</phrase>
+            <phrase role="SUBJ" pos="N">I</phrase>
             <phrase pos="V">go to</phrase>
             <phrase pos="DET">the</phrase>
             <phrase pos="N">bathroom</phrase>

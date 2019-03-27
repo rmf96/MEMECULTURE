@@ -9,7 +9,7 @@
         </frag>
         <frag n="2">
             <phrase role="SUBJ" presence="null" pos="N"/>
-            <phrase pos="N">Facebook</phrase>
+            <phrase pos="V">Facebook</phrase>
             <phrase pos="DET">the</phrase>
             <phrase pos="ADJ">whole</phrase>
             <phrase pos="N">time</phrase>

@@ -13,8 +13,7 @@
             <phrase pos="N">day</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="V" presence="null"/>
-            <phrase pos="N">Best friend</phrase>
+            <phrase role="SUBJ" pos="N">Best friend</phrase>
         </frag>
     </text>
 </meme>

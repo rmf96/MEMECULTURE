@@ -5,10 +5,8 @@
         <frag n="1">
             <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="V">Thinks</phrase>
-            <phrase pos="N">college</phrase>
-            <phrase pos="N">career</phrase>
-            <phrase pos="V">will</phrase>
-            <phrase pos="V">provide</phrase>
+            <phrase pos="N">college career</phrase>
+            <phrase pos="V">will provide</phrase>
             <phrase pos="N">him</phrase>
             <phrase pos="DET">a</phrase>
             <phrase pos="N">career</phrase>

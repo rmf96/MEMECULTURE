@@ -3,7 +3,7 @@
     <title>College Freshman</title>
     <text type="top-bottom">
         <frag n="1">
-            <phrase role="SUBJ" presence="null" pos="N">Nobody</phrase>
+            <phrase role="SUBJ" pos="N">Nobody</phrase>
             <phrase pos="PREP">around</phrase>
             <phrase pos="ADV">here</phrase>
             <phrase pos="V">is</phrase>
@@ -20,8 +20,7 @@
             <phrase pos="ADV">always</phrase>
             <phrase pos="V">looking</phrase>
             <phrase pos="PREP">at</phrase>
-            <phrase pos="N">his</phrase>
-            <phrase pos="N">phone</phrase>
+            <phrase role="OBJ" pos="N">his phone</phrase>
         </frag>
     </text>
 </meme>

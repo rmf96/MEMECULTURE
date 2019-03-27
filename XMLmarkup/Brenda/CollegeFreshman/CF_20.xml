@@ -10,8 +10,7 @@
         <frag n="2">
             <phrase pos="V">Wait</phrase>
             <phrase pos="ADV">so</phrase>
-            <phrase pos="V">do... have</phrase>
-            <phrase role="SUBJ" pos="N">we</phrase>
+            <phrase pos="V">do <phrase role="SUBJ" pos="N">we</phrase> have</phrase>
             <phrase pos="N">homework</phrase>
         </frag>
     </text>

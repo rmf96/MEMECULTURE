@@ -19,8 +19,7 @@
             <phrase pos="PREP">so</phrase>
             <phrase pos="N">mom</phrase>
             <phrase pos="V">can do</phrase>
-            <phrase pos="N">his</phrase>
-            <phrase pos="N">laundry</phrase>
+            <phrase role="OBJ" pos="N">his laundry</phrase>
         </frag>
     </text>
 </meme>

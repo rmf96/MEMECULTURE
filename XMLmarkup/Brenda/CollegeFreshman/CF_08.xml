@@ -7,7 +7,7 @@
             <phrase pos="V">Buys</phrase>
             <phrase pos="DET">all</phrase>
             <phrase pos="ADJ">recommended</phrase>
-            <phrase pos="N">textbooks</phrase>
+            <phrase role="OBJ" pos="N">textbooks</phrase>
         </frag>
     </text>
 </meme>

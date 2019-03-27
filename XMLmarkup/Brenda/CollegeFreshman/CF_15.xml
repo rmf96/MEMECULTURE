@@ -11,9 +11,8 @@
             <phrase pos="V">is</phrase>
         </frag>
         <frag n="2">
-            <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="V">While</phrase>
-            <phrase pos="PREP">he's</phrase>
+            <phrase role="SUBJ" pos="N">he's</phrase>
             <phrase pos="ADV">already</phrase>
             <phrase pos="PREP">in</phrase>
             <phrase pos="N">it</phrase>

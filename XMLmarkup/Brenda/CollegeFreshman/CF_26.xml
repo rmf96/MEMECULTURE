@@ -5,11 +5,11 @@
         <frag n="1">
             <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="V">Fails</phrase>
-            <phrase pos="N">test</phrase>
+            <phrase role="OBJ" pos="N">test</phrase>
         </frag>
         <frag n="2">
             <phrase pos="PREP">That</phrase>
-            <phrase pos="N">teacher</phrase>
+            <phrase role="SUBJ" pos="N">teacher</phrase>
             <phrase pos="V">is</phrase>
             <phrase pos="ADV">so</phrase>
             <phrase pos="ADJ">dumb</phrase>
