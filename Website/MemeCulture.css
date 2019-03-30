@@ -4,17 +4,53 @@ h1 {
 body {
     background-color: Tomato;
 }
-#Home {
+#HomeAbout {
     
 }
-#Dropdown {
+#DropdownAbout {
     
-    position: absolute;
+    display: inline-block
     }
-#pages {
+#pagesAbout {
     display: none;
 }
-#list:hover #pages {
-    background-color: black;
+#DropdownAbout:hover #pagesAbout {
+    background-color: white;
     display: block; 
+    position: absolute;
+}
+#HomeCorpus {
+    
+}
+#DropdownCorpus {
+    display: inline-block
+    
+    }
+#pagesCorpus {
+    display: none;
+}
+#DropdownCorpus:hover #pagesCorpus {
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+}
+#HomeResults {
+    
+}
+#DropdownResults {
+    
+    display: inline-block
+    }
+#pagesResults {
+    display: none;
+
+}
+#DropdownResults:hover #pagesResults {
+    background-color: white;
+    display: block;
+    position: absolute;
+}
+
+a{
+    display:block;
 }
