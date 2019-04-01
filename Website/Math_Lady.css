@@ -1,0 +1,70 @@
+h1 {
+    background-color: LightSkyBlue; text-align: center; 
+}
+body {
+    background-color: Tomato;
+}
+#HomeHome {
+    
+}
+#DropdownHome {
+    
+    display: inline-block
+    }
+#pagesHome {
+    display: none;
+}
+#DropdownHome:hover #pagesHome {
+    background-color: white;
+    display: block; 
+    position: absolute;
+}#HomeAbout {
+    
+}
+#DropdownAbout {
+    
+    display: inline-block
+    }
+#pagesAbout {
+    display: none;
+}
+#DropdownAbout:hover #pagesAbout {
+    background-color: white;
+    display: block; 
+    position: absolute;
+}
+#HomeCorpus {
+    
+}
+#DropdownCorpus {
+    display: inline-block
+    
+    }
+#pagesCorpus {
+    display: none;
+}
+#DropdownCorpus:hover #pagesCorpus {
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+}
+#HomeResults {
+    
+}
+#DropdownResults {
+    
+    display: inline-block
+    }
+#pagesResults {
+    display: none;
+
+}
+#DropdownResults:hover #pagesResults {
+    background-color: white;
+    display: block;
+    position: absolute;
+}
+
+a{
+    display:block;
+}
