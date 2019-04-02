@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Roll Safe</title>
     <text type="top-bottom">
@@ -9,7 +10,7 @@
             <phrase pos="ADJ">mid-life</phrase>
             <phrase pos="N">crisis</phrase>
             <phrase pos="PREP">If</phrase>
-            <phrase pos="N">your entire life</phrase>>
+            <phrase pos="N">your entire life</phrase>
             <phrase pos="V">is</phrase>
             <phrase pos="DET">a</phrase>
             <phrase pos="N">crisis</phrase>
