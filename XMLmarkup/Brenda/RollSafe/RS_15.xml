@@ -2,17 +2,17 @@
 <?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Roll Safe</title>
-    <text type="top-bottom">
+    <text type="singular-top">
         <frag n="1">
             <phrase role="SUBJ" presence="null" pos="N"/>
-            <phrase pos="V">can't go to</phrase>
-            <phrase pos="N">hell</phrase>
-        </frag>
-        <frag n="2">
-            <phrase pos="">If</phrase>
-            <phrase role="SUBJ" pos="N">you</phrase>
-            <phrase pos="V">do not</phrase>
-            <phrase pos="N">sin</phrase>
+            <phrase pos="V">can't get arrested</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="N">parties</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="ADV">never</phrase>
+            <phrase pos="V">leave</phrase>
+            <phrase pos="N">your dorm</phrase>
         </frag>
     </text>
 </meme>

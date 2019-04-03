@@ -2,9 +2,9 @@
 <?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Roll Safe</title>
-    <text type="top-bottom">
+    <text type="singular-top">
         <frag n="1">
-            <phrase role="SUBJ" presence="null" pos="N">You</phrase>
+            <phrase role="SUBJ" pos="N">You</phrase>
             <phrase pos="V">don't need to test</phrase>
             <phrase pos="DET">a</phrase>
             <phrase pos="N">game</phrase>

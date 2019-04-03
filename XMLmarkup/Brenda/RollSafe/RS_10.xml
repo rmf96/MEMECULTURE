@@ -5,17 +5,14 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase role="SUBJ" presence="null" pos="N"/>
-            <phrase pos="">can't</phrase>
-            <phrase pos="">go</phrase>
-            <phrase pos="">to</phrase>
-            <phrase pos="">hell</phrase>
+            <phrase pos="V">can't go to</phrase>
+            <phrase pos="N">hell</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="">If</phrase>
+            <phrase pos="PREP">If</phrase>
             <phrase role="SUBJ" pos="N">you</phrase>
-            <phrase pos="">do</phrase>
-            <phrase pos="">not</phrase>
-            <phrase pos="">sin</phrase>
+            <phrase pos="V">do not</phrase>
+            <phrase pos="N">sin</phrase>
         </frag>
     </text>
 </meme>
