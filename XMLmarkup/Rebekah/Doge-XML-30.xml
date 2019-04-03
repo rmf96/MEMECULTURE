@@ -2,12 +2,13 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" presence="null" role="SUBJ"/>
-        <phrase pos="ADJ">so enrage</phrase>
-        <phrase pos="N">how teeth</phrase>
-        <phrase pos="N">much bark</phrase>
-        <phrase pos="N">very attention</phrase>
-        <phrase pos="ADJ">such angry</phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="ADJ">so enrage</phrase>
+            <phrase pos="N">how teeth</phrase>
+            <phrase pos="N">much bark</phrase>
+            <phrase pos="N">very attention</phrase>
+            <phrase pos="ADJ">such angry</phrase>
+        </frag>
     </text>
 </meme>
-

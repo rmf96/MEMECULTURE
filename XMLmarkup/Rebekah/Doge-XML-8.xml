@@ -2,13 +2,14 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N">so<phrase pos="N" role="SUBJ">nurses</phrase></phrase>
-        <phrase pos="N">much compassion</phrase>
-        <phrase pos="INT">wow</phrase>
-        <phrase pos="ADJ">amaze</phrase>
-        <phrase pos="N">so talent</phrase>
-        <phrase pos="N"><phrase pos="ADJ">greatest</phrase> talent</phrase>
-        <phrase pos="ADJ">very kindest</phrase>
+        <frag n="1">
+            <phrase pos="N">so<phrase pos="N" role="SUBJ">nurses</phrase></phrase>
+            <phrase pos="N">much compassion</phrase>
+            <phrase pos="INT">wow</phrase>
+            <phrase pos="ADJ">amaze</phrase>
+            <phrase pos="N">so talent</phrase>
+            <phrase pos="N"><phrase pos="ADJ">greatest</phrase> talent</phrase>
+            <phrase pos="ADJ">very kindest</phrase>
+        </frag>
     </text>
 </meme>
-
