@@ -77,6 +77,13 @@ p{
   margin-right: auto;
   width: 50%;
 }
-div.second{
-    opacity: 0.3
+#second{
+    background-color: gray;
+    color: black;
+    padding: 15px;
+    width: 1000px;
+    margin: 30px auto;
+}
+.menu {
+    text-align: center;
 }
