@@ -2,13 +2,13 @@
 <?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Roll Safe</title>
-    <text type="top-bottom">
+    <text type="singular-top">
         <frag n="1">
             <phrase pos="PREP">If</phrase>
             <phrase pos="DET">a</phrase>
-            <phrase pos="N">genie</phrase>
+            <phrase role="subj" pos="N">genie</phrase>
             <phrase pos="V">tells</phrase>
-            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase  pos="N">you</phrase>
             <phrase pos="PREP">that</phrase>
             <phrase pos="N">you</phrase>
             <phrase pos="V">can't wish</phrase>

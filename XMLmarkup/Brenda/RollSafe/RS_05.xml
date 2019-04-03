@@ -2,29 +2,22 @@
 <?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Roll Safe</title>
-    <text type="top-bottom">
+    <text type="singular-top">
         <frag n="1">
             <phrase role="SUBJ" pos="N">You</phrase>
-            <phrase pos="">do</phrase>
-            <phrase pos="">not</phrase>
-            <phrase pos="">have</phrase>
-            <phrase pos="">to</phrase>
-            <phrase pos="">worry</phrase>
-            <phrase pos="">about</phrase>
-            <phrase pos="">Youtube</phrase>
-            <phrase pos="">demonetizing</phrase>
-            <phrase pos="">your</phrase>
-            <phrase pos="">videos</phrase>
-            <phrase pos="">if</phrase>
-            <phrase pos="">you</phrase>
-            <phrase pos="">do</phrase>
-            <phrase pos="">not</phrase>
-            <phrase pos="">monetize</phrase>
-            <phrase pos="">them</phrase>
-            <phrase pos="">in</phrase>
-            <phrase pos="">the</phrase>
-            <phrase pos="">first</phrase>
-            <phrase pos="">place</phrase>
+            <phrase pos="V">do not have to worry</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="N">Youtube</phrase>
+            <phrase pos="V">demonetizing</phrase>
+            <phrase pos="N">your videos</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">do not monetize</phrase>
+            <phrase pos="N">them</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">first</phrase>
+            <phrase pos="N">place</phrase>
         </frag>
     </text>
 </meme>

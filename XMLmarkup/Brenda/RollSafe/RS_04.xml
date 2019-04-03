@@ -4,12 +4,11 @@
     <title>Roll Safe</title>
     <text type="top-bottom">
         <frag n="1">
-            <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="DET">There</phrase>
             <phrase pos="V">can't</phrase>
             <phrase pos="V">be</phrase>
             <phrase pos="DET">any</phrase>
-            <phrase pos="N">tax</phrase>
+            <phrase role="SUBJ" pos="N">tax</phrase>
         </frag>
         <frag n="2">
             <phrase role="SUBJ" presence="null" pos="N"/>

@@ -7,7 +7,7 @@
             <phrase role="SUBJ" pos="N">You</phrase>
             <phrase pos="V">can't clean</phrase>
             <phrase pos="DET">a </phrase>
-            <phrase pos="N">house</phrase>
+            <phrase role="OBJ" pos="N">house</phrase>
         </frag>
         <frag n="2">
             <phrase pos="PREP">If</phrase>

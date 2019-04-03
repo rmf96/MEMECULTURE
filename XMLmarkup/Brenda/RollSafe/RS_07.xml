@@ -5,22 +5,21 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase role="SUBJ" pos="N">You</phrase>
-            <phrase pos="">can't</phrase>
-            <phrase pos="">form</phrase>
-            <phrase pos="">a</phrase>
-            <phrase pos="">union</phrase>
+            <phrase pos="V">can't form</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">union</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="">If</phrase>
-            <phrase role="SUBJ" pos="">we</phrase>
-            <phrase pos="">fire</phrase>
-            <phrase pos="">everyone</phrase>
-            <phrase pos="">if</phrase>
-            <phrase pos="">anybody</phrase>
-            <phrase pos="">even</phrase>
-            <phrase pos="">talks</phrase>
-            <phrase pos="">about</phrase>
-            <phrase pos="">it</phrase>
+            <phrase pos="PREP">If</phrase>
+            <phrase role="SUBJ" pos="N">we</phrase>
+            <phrase pos="V">fire</phrase>
+            <phrase pos="N">everyone</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">anybody</phrase>
+            <phrase pos="ADV">even</phrase>
+            <phrase pos="V">talks</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="N">it</phrase>
         </frag>
     </text>
 </meme>

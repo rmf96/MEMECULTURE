@@ -5,17 +5,16 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase role="SUBJ" presence="null" pos="N"/>
-            <phrase pos="">can't</phrase>
-            <phrase pos="">get</phrase>
-            <phrase pos="">addiction</phrase>
+            <phrase pos="V">can't get</phrase>
+            <phrase pos="N">addiction</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="">If</phrase>
-            <phrase role="SUBJ" pos="">you</phrase>
-            <phrase pos="">never</phrase>
-            <phrase pos="">try</phrase>
-            <phrase pos="">dangerous</phrase>
-            <phrase pos="">habit</phrase>
+            <phrase pos="PREP">If</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="ADV">never</phrase>
+            <phrase pos="V">try</phrase>
+            <phrase pos="ADJ">dangerous</phrase>
+            <phrase pos="N">habit</phrase>
         </frag>
     </text>
 </meme>
