@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV" role="SUBJ">Vegans</phrase>
+            <phrase pos="V">can</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="V">use</phrase>
+            <phrase pos="N" role="OBJ">gas</phrase>
+            <phrase pos="CONJ">because</phrase>
+            <phrase pos="N" role="OBJ">it</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="V">made</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="N">dead dinosaurs</phrase>
+        </frag>
+    </text>
+</meme>

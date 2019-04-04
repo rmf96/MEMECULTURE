@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Men</phrase>
+            <phrase pos="V">hide</phrase>
+            <phrase pos="PREP">behind</phrase>
+            <phrase pos="N" role="OBJ">beards</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">same</phrase>
+            <phrase pos="N">way</phrase>
+            <phrase pos="N" role="SUBJ">women</phrase>
+            <phrase pos="V">hide</phrase>
+            <phrase pos="PREP">behind</phrase>
+            <phrase pos="N" role="OBJ">makeup</phrase>
+        </frag>
+    </text>
+</meme>

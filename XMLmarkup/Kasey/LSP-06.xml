@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Saturday night</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">only</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="N">9pm</phrase>
+            <phrase pos="PREP">till</phrase>
+            <phrase pos="N">midnight</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">rest</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="N">Sunday</phrase>
+        </frag>
+    </text>
+</meme>

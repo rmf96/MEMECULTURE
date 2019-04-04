@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="DET">ya</phrase>
+            <phrase pos="N" role="SUBJ">boy</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="V">crying</phrase>
+            <phrase pos="CONJ">because</phrase>
+            <phrase pos="DET">his</phrase>
+            <phrase pos="N">girl</phrase>
+            <phrase pos="V">dumped</phrase>
+            <phrase pos="P">him</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">realize</phrase>
+            <phrase pos="P">he</phrase>
+            <phrase pos="V">has</phrase>
+            <phrase pos="DET">more</phrase>
+            <phrase pos="N">time</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">spend</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="N">Fortnite</phrase>
+        </frag>
+    </text>
+</meme>

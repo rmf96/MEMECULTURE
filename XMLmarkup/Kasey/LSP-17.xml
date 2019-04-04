@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Scorpions</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="ADJ">venomous</phrase>
+            <phrase pos="N">land lobsters</phrase>
+        </frag>
+    </text>
+</meme>

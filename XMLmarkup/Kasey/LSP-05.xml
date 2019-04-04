@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">The Big Bang Theory</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">Nickelback</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N">TV shows</phrase>
+        </frag>
+    </text>
+</meme>

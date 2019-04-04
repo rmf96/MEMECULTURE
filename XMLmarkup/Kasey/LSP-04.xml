@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADJ">Good</phrase>
+            <phrase pos="N" role="SUBJ">Pokemon designs</phrase>
+            <phrase pos="ADV">still</phrase>
+            <phrase pos="V">exist</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">every</phrase>
+            <phrase pos="N">generation</phrase>
+            <phrase pos="PREP">after</phrase>
+            <phrase pos="N">gold</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N">silver</phrase>
+        </frag>
+    </text>
+</meme>

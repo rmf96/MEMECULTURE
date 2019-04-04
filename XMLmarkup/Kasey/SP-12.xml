@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">How</phrase>
+            <phrase pos="DET">my</phrase>
+            <phrase pos="N" role="SUBJ">professor</phrase>
+            <phrase pos="V">looks</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N" role="OBJ">exam</phrase>
+            <phrase pos="V">knowin</phrase>
+            <phrase pos="N">it</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">nothing</phrase>
+            <phrase pos="PREP">like</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">study guide</phrase>
+        </frag>
+    </text>
+</meme>

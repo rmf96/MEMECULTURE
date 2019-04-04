@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">how</phrase>
+            <phrase pos="N" role="SUBJ">u</phrase>
+            <phrase pos="V">look</phrase>
+            <phrase pos="PREP">inside</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">bag</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N" role="OBJ">McDonald's</phrase>
+            <phrase pos="V">knwoing</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="ADV">about</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">eat</phrase>
+            <phrase pos="N">everyone's</phrase>
+            <phrase pos="N">fries</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">way</phrase>
+            <phrase pos="N">home</phrase>
+        </frag>
+    </text>
+</meme>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="DET">The</phrase>
+            <phrase pos="N" role="SUBJ">McDonanld's employee</phrase>
+            <phrase pos="V">waiting</phrase>
+            <phrase pos="V">tell</phrase>
+            <phrase pos="N" role="OBJ">you</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">ice cream machine</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADJ">broken</phrase>
+        </frag>
+    </text>
+</meme>

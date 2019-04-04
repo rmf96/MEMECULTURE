@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">hide</phrase>
+            <phrase pos="N">one</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="DET">your</phrase>
+            <phrase pos="N">freind's</phrase>
+            <phrase pos="N" role="OBJ">things</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="P">he</phrase>
+            <phrase pos="V">blames</phrase>
+            <phrase pos="N">someone</phrase>
+            <phrase pos="ADV">else</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="V">stealing</phrase>
+            <phrase pos="N">it</phrase>
+        </frag>
+    </text>
+</meme>

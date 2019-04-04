@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="DET">The</phrase>
+            <phrase pos="N">show</phrase>
+            <phrase pos="N" role="SUBJ">'Friends'</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="N">'The Office'</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="N">home</phrase>
+        </frag>
+    </text>
+</meme>

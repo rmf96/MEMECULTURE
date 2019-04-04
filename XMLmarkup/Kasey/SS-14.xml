@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Starts</phrase>
+            <phrase pos="N">charity fund</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="ADV">That</phrase>
+            <phrase pos="V">helps</phrase>
+            <phrase pos="P">himself</phrase>
+        </frag>       
+    </text>
+</meme>

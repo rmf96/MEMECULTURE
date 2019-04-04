@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">ABBA's music</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="N">Fleetwood Mac</phrase>
+            <phrase pos="ADV">without</phrase>
+        </frag>
+    </text>
+</meme>

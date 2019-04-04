@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="DET">all</phrase>
+            <phrase pos="ADV">both</phrase>
+            <phrase pos="ADJ">toxic</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="P">eachother</phrase>
+            <phrase pos="CONJ">but</phrase>
+            <phrase pos="V">can</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="V">leave</phrase>
+            <phrase pos="P">eachother</phrase>
+            <phrase pos="ADV">alone</phrase>
+        </frag>
+    </text>
+</meme>

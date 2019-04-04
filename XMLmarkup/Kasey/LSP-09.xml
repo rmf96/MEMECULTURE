@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="V">Having</phrase>
+            <phrase pos="N">experience</phrase>
+            <phrase pos="V">does</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="ADV">always</phrase>
+            <phrase pos="V">mean</phrase>
+            <phrase pos="P">that</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="ADJ">good</phrase>
+            <phrase pos="N">leader</phrase>
+        </frag>
+    </text>
+</meme>

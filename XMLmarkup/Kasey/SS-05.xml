@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Has</phrase>
+            <phrase pos="V">been</phrase>
+            <phrase pos="V">blocking</phrase>
+            <phrase pos="DET">this</phrase>
+            <phrase pos="N">doorway</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="PREP">For</phrase>
+            <phrase pos="ADV">almost</phrase> 
+            <phrase pos="ADJ">three</phrase>
+            <phrase pos="N">years</phrase>
+            <phrase pos="ADV">now</phrase>
+            
+        </frag>       
+    </text>
+</meme>

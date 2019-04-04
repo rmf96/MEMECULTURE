@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Says</phrase>
+            <phrase pos="N">he</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADJ">distant</phrase>
+            <phrase pos="CONJ">because</phrase>
+            <phrase pos="P">he</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="V">struggling</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="N">despression</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Struggling</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="V">hiding</phrase>
+            <phrase pos="ADJ">second</phrase> 
+            <phrase pos="N">girlfriend</phrase>
+        </frag>       
+    </text>
+</meme>

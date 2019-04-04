@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Me</phrase>
+            <phrase pos="V">making</phrase>
+            <phrase pos="N">plans</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">group chat</phrase>
+            <phrase pos="V">knowing</phrase>
+            <phrase pos="N">I</phrase>
+            <phrase pos="V">am</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="V">going</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">show up</phrase>
+            <phrase pos="ADV">anyway</phrase>
+        </frag>
+    </text>
+</meme>

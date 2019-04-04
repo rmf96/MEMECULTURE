@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">Not</phrase>
+            <phrase pos="DET">every</phrase>
+            <phrase pos="N" role="SUBJ">villain</phrase>
+            <phrase pos="V">deserve</phrase>
+            <phrase pos="DET">a<phrase>
+            <phrase pos="N" role="OBJ">redemption arc</phrase>
+            <phrase pos="ADV">There</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">reason</phrase>
+            <phrase pos="CONJ">why</phrase>
+            <phrase pos="N" role="SUBJ">they</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="N">villains</phrase>
+        </frag>
+    </text>
+</meme>

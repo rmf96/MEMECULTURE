@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="V">Listening</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="N">genres</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N">music</phrase>
+            <phrase pos="P">other</phrase>
+            <phrase pos="N">than</phrase>
+            <phrase pos="N">metal</phrase>
+            <phrase pos="DET">does</phrase>
+            <phrase pos="N">not</phrase>
+            <phrase pos="V">make</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">poser</phrase>
+        </frag>
+    </text>
+</meme>

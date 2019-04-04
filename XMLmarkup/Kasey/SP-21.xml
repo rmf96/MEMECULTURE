@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">ate</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">last</phrase>
+            <phrase pos="ADJ">chocolate</phrase>
+            <phrase pos="N" role="OBJ">brownie</phrase>
+        </frag>
+    </text>
+</meme>

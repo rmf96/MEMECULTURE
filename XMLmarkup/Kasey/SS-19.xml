@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="INT">Oh</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="V">washed</phrase>
+            <phrase pos="DET">your</phrase>
+            <phrase pos="N">car</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="ADJ">Cool</phrase>
+        </frag>       
+    </text>
+</meme>

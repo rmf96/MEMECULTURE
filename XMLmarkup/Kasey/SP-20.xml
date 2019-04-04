@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Me</phrase>
+            <phrase pos="V">heating up</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N" role="OBJ">shower</phrase>
+            <phrase pos="CONJ">until</phrase>
+            <phrase pos="N">i</phrase>
+            <phrase pos="V">can</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="B">feel</phrase>
+            <phrase pos="DET">my</phrase>
+            <phrase pos="N">skin</phrase>
+            <phrase pos="ADV">anymore</phrase>
+        </frag>
+    </text>
+</meme>

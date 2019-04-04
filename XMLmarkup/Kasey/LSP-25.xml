@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">John Wick</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="ADV">this</phrase>
+            <phrase pos="N">generation's</phrase>
+            <phrase pos="N">Chuck Norris</phrase>
+        </frag>
+    </text>
+</meme>

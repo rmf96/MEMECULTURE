@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Refuses</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">participate</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="ADJ">office</phrase>
+            <phrase pos="N">swear jar</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Particiaptes</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">banquet</phrase>
+            <phrase pos="V">funded</phrase>
+            <phrase pos="PREP">by</phrase>
+            <phrase pos="N">swear jar money</phrase>
+        </frag>       
+    </text>
+</meme>

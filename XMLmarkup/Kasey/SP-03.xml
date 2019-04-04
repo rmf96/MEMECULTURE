@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">people</phrase>
+            <phrase pos="V">make</phrase>
+            <phrase pos="N">fun</phrase>
+            <phrase pos="PREP">of</phrase>
+            <phrase pos="N" role="OBJ">you</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="V">looking</phrase>
+            <phrase pos="PREP">like</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">grape</phrase>
+            <phrase pos="CONJ">but</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">get</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">last</phrase>
+            <phrase pos="N" role="OBJ">Infinity Stone</phrase>
+        </frag>
+    </text>
+</meme>

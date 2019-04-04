@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N">Me</phrase>
+            <phrase pos="V">leaving</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">pot</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">sink</phrase>
+            <phrase pos="CONJ">because</phrase>
+            <phrase pos="N">'it'</phrase>
+            <phrase pos="V">'needs'</phrase>
+            <phrase pos="PREP">'to'</phrase>
+            <phrase pos="V">'soak'</phrase>
+        </frag>
+    </text>
+</meme>

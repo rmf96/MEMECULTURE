@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Says</phrase>
+            <phrase pos="P">he</phrase>
+            <phrase pos="V">does</phrase>
+            <phrase pos="ADV">not</phrase>
+            <phrase pos="V">want</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">order</phrase>
+            <phrase pos="PREP">out</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Eats</phrase>
+            <phrase pos="DET">your</phrase>
+            <phrase pos="N">food</phrase>
+            <phrase pos="ADV">when</phrase>
+            <phrase pos="N">it</phrase>
+            <phrase pos="V">comes</phrase>
+        </frag>       
+    </text>
+</meme>

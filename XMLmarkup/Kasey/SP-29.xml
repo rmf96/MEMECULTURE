@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="DET">your</phrase>
+            <phrase pos="N" role="SUBJ">friends</phrase>
+            <phrase pos="V">start</phrase>
+            <phrase pos="V">watching</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N" role="SUBJ">show</phrase>
+            <phrase pos="ADV">that</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="ADV">already</phrase>
+            <phrase pos="V">watching</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">know</phrase>
+            <phrase pos="DET">their</phrase>
+            <phrase pos="ADJ">favorite</phrase>
+            <phrase pos="N">character</phrase>
+            <phrase pos="V">dies</phrase>
+            <phrase pos="ADV">later</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">series</phrase>
+        </frag>
+    </text>
+</meme>

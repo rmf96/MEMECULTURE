@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Scumbag Steve</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Listens</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="DET">your</phrase>
+            <phrase pos="N">story</phrase>
+        </frag>
+    </text>
+    <text type="bottom">
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Tries</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">one-up</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="DET">his</phrase>
+            <phrase pos="ADJ">own</phrase>
+            <phrase pos="N">version</phrase>
+        </frag>       
+    </text>
+</meme>

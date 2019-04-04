@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">PETA</phrase>
+            <phrase pos="V">tweets</phrase>
+            <phrase pos="ADJ">controversial</phrase>
+            <phrase pos="N">things</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">get</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="PREP">to</phrase>
+            <phrase pos="V">talk</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="N">them</phrase>
+        </frag>
+    </text>
+</meme>

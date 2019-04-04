@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Savage Patrick</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase pos="N" role="SUBJ">you</phrase>
+            <phrase pos="V">drown</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N" role="OBJ">spider</phrase>
+            <phrase pos="ADv">that</phrase>
+            <phrase pos="V">was</phrase>
+            <phrase pos="V">chillin</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">your</phrase>
+            <phrase pos="N">bathroom sink</phrase>
+        </frag>
+    </text>
+</meme>

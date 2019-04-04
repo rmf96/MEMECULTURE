@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Lisa Simpson Powerpoint</title>
+    <text type="top">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Someone</phrase>
+            <phrase pos="V">made up</phrase>
+            <phrase pos="N" role="OBJ">dinosaur noises</phrase>
+            <phrase pos="PREP">without</phrase>
+            <phrase pos="ADV">ever</phrase>
+            <phrase pos="V">hearing</phrase>
+            <phrase pos="N" role="OBJ">them</phrase>
+        </frag>
+    </text>
+</meme>
