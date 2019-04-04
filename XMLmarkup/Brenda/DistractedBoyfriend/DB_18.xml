@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Bruce Wayne</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="V">seeing</phrase>
+            <phrase pos="N">a therapist</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="V">dealing</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="N">his trauma</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="V">Dressing up</phrase>
+            <phrase pos="N">as a bat</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N">beating the shit out of poeple</phrase>
+        </frag>
+    </text>
+</meme>

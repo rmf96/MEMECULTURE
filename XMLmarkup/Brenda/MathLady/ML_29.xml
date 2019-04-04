@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">screwed up</phrase>
+            <phrase pos="ADJ">big</phrase>
+            <phrase pos="N">time</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">person</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="PREP">that</phrase>
+            <phrase pos="N">same person</phrase>
+            <phrase pos="V"> decided to talk to</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="ADV">again</phrase>
+        </frag>
+    </text>
+</meme>

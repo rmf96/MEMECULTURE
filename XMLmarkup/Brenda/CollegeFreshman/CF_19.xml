@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Puts</phrase>
+            <phrase pos="ADJ">dirty</phrase>
+            <phrase role="OBJ" pos="N">dishes</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="N">sink</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Shocked to find</phrase>
+            <phrase role="OBJ" pos="N">them</phrase>
+            <phrase pos="ADV">still there</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">morning</phrase>
+        </frag>
+    </text>
+</meme>
+

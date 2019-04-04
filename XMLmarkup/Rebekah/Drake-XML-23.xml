@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="V">Learn programming</phrase>
+            <phrase pos="PREP">to understand r/programmer humor jokes</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="V">Learn programming</phrase>
+            <phrase pos="PREP">from r/programmer humor jokes</phrase>
+        </frag>
+    </text>
+</meme>

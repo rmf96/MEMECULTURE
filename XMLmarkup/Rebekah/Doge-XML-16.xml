@@ -2,15 +2,16 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" presence="null" role="SUBJ"/>
-        <phrase pos="N">wow, such tattoo</phrase>
-        <phrase pos="N">many badass</phrase>
-        <phrase pos="N">lots of cool</phrase>
-        <phrase pos="INT">wow</phrase>
-        <phrase pos="INT">omg</phrase>
-        <phrase pos="N">so mohawk</phrase>
-        <phrase pos="ADJ">very impress</phrase>
-        <phrase pos="N">much color</phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="N">wow, such tattoo</phrase>
+            <phrase pos="N">many badass</phrase>
+            <phrase pos="N">lots of cool</phrase>
+            <phrase pos="INT">wow</phrase>
+            <phrase pos="INT">omg</phrase>
+            <phrase pos="N">so mohawk</phrase>
+            <phrase pos="ADJ">very impress</phrase>
+            <phrase pos="N">much color</phrase>
+        </frag>
     </text>
 </meme>
-

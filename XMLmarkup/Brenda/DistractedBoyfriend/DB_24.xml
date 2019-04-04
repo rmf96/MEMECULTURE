@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N">my dad's ghost</phrase>
+        </frag>
+        <frag n="3">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="N">a friend</phrase>
+            <phrase pos="V">who thinks</phrase>
+            <phrase pos="N">the ghost</phrase>
+            <phrase pos="V">will drive </phrase>
+            <phrase pos="N">me insane</phrase>
+            
+        </frag>
+    </text>
+</meme>

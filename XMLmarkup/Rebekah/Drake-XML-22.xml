@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="V">Get</phrase>
+            <phrase pos="N" role="OBJ">a job</phrase>
+            <phrase pos="N" presence="null" role="SUBJ"/>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="V">Stay <phrase pos="PREP">in bed</phrase><phrase>for twenty years</phrase></phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="V">leech off of family</phrase>
+        </frag>
+    </text>
+</meme>

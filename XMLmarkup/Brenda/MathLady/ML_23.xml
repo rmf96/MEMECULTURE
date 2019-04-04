@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Me</phrase>
+            <phrase pos="V">trying to figure out</phrase>
+            <phrase pos="ADV">why</phrase>
+            <phrase pos="N">people</phrase>
+            <phrase pos="V">are</phrase>
+            <phrase pos="ADJ">so unreliable</phrase>
+        </frag>
+    </text>
+</meme>
+

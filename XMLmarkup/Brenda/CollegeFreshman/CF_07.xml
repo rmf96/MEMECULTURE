@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>College Freshman</title>
     <text type="top-bottom">
@@ -6,14 +7,14 @@
             <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="ADV">Never</phrase>
             <phrase pos="V">stops quoting</phrase>
-            <phrase pos="N">pulp fiction</phrase>
+            <phrase role="OBJ" pos="N">pulp fiction</phrase>
         </frag>
         <frag n="2">
             <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="V">Has</phrase>
             <phrase pos="ADV">never</phrase>
             <phrase pos="V">seen</phrase>
-            <phrase pos="N">it</phrase>
+            <phrase role="OBJ" pos="N">it</phrase>
         </frag>
     </text>
 </meme>

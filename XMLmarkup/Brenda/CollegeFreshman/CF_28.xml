@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Wants</phrase>
+            <phrase pos="PREP">the</phrase>
+            <phrase pos="ADV">real</phrase>
+            <phrase role="OBJ" pos="N">college experience</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="V">Hangs out</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="N">friends</phrase>
+            <phrase pos="PREP">from</phrase>
+            <phrase pos="N">high school</phrase>
+            <phrase pos="DET">all</phrase>
+            <phrase pos="N">year</phrase>
+        </frag>
+    </text>
+</meme>
+

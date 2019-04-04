@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="singular-top">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">can't get arrested</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="N">parties</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="ADV">never</phrase>
+            <phrase pos="V">leave</phrase>
+            <phrase pos="N">your dorm</phrase>
+        </frag>
+    </text>
+</meme>

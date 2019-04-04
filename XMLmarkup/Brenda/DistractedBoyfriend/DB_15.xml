@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Hugh Hefner's ghost</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N">desperate young women</phrase>
+            <phrase pos="V">willing to do</phrase>
+            <phrase pos="N">anything</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">money</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="N">Other elderly millionaries</phrase>
+        </frag>
+    </text>
+</meme>

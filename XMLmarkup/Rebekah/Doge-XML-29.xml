@@ -2,11 +2,12 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" presence="null" role="SUBJ"/>
-        <phrase pos="N">very group</phrase>
-        <phrase pos="N">such work</phrase>
-        <phrase pos="N">wow doge</phrase>
-        <phrase pos="N">much team</phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="N">very group</phrase>
+            <phrase pos="N">such work</phrase>
+            <phrase pos="N">wow doge</phrase>
+            <phrase pos="N">much team</phrase>
+        </frag>
     </text>
 </meme>
-

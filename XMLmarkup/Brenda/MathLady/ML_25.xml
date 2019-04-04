@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Studying</phrase>
+            <phrase pos="V">is</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">optimal solution</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="CONJ">BUT</phrase>
+            <phrase pos="V">we're</phrase>
+            <phrase pos="N">bounded rational creatures</phrase>
+            <phrase pos="V">unable to make</phrase>
+            <phrase pos="N">optimal decisions</phrase>
+        </frag>
+    </text>
+</meme>

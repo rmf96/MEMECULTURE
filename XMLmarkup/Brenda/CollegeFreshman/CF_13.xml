@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">meets</phrase>
+            <phrase pos="DET">someone</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">dining hall</phrase>
+            <phrase pos="ADJ">first</phrase>
+            <phrase pos="N">day</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" pos="N">Best friend</phrase>
+        </frag>
+    </text>
+</meme>

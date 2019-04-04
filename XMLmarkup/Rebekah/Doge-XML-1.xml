@@ -2,10 +2,12 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" presence="null" role="SUBJ"/>
-        <phrase pos="ADJ">forever gone go there</phrase>
-        <phrase pos="V">very lost my way</phrase>
-        <phrase pos="ADJ">such not together stay here</phrase>
-        <phrase pos="ADJ">very anywhere is</phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="ADJ">forever gone go there</phrase>
+            <phrase pos="V">very lost my way</phrase>
+            <phrase pos="ADJ">such not together stay here</phrase>
+            <phrase pos="ADJ">very anywhere is</phrase>
+        </frag>
     </text>
 </meme>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Learns</phrase>
+            <phrase pos="N">three chords</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="N">guitar</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Plays</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="N">quad</phrase>
+            <phrase pos="ADV">so</phrase>
+            <phrase pos="N">everyone</phrase>
+            <phrase pos="V">can hear</phrase>
+        </frag>
+    </text>
+</meme>
+

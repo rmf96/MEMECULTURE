@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N">That moment</phrase>
+            <phrase pos="ADV">when</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">'re</phrase>
+            <phrase pos="PREP">at</phrase>
+            <phrase pos="N">work</phrase>
+
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="CONJ">And</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="PREP">like</phrase>
+            <phrase pos="V">why am I doing </phrase>
+            <phrase pos="DET">this</phrase>
+            <phrase pos="ADV">again</phrase>
+            <phrase pos="IN">Oh yeah</phrase>
+            <phrase pos="N">money</phrase>
+        </frag>
+    </text>
+</meme>
+

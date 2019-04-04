@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Being safe</phrase>
+            <phrase pos="N">from online scammers and predators</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Being the 100th user</phrase>
+            <phrase pos="N">on the site</phrase>
+            <phrase pos="V">and just having to click here</phrase>
+            <phrase pos="V">to claim millions of dollars</phrase>
+        </frag>
+    </text>
+</meme>
+

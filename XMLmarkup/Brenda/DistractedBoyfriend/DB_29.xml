@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Distracted Boyfriend</title>
+    <text type="floating">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">me</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N">my bank account</phrase>
+        </frag>
+        <frag n="3">
+            <phrase pos="N">my amazon wishlist</phrase>
+        </frag>
+    </text>
+</meme>

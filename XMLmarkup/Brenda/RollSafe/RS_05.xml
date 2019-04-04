@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="singular-top">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">You</phrase>
+            <phrase pos="V">do not have to worry</phrase>
+            <phrase pos="PREP">about</phrase>
+            <phrase pos="N">Youtube</phrase>
+            <phrase pos="V">demonetizing</phrase>
+            <phrase pos="N">your videos</phrase>
+            <phrase pos="PREP">if</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">do not monetize</phrase>
+            <phrase pos="N">them</phrase>
+            <phrase pos="PREP">in</phrase>
+            <phrase pos="DET">the</phrase>
+            <phrase pos="ADJ">first</phrase>
+            <phrase pos="N">place</phrase>
+        </frag>
+    </text>
+</meme>

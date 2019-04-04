@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Math Lady</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="ADV">When</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">'re walking</phrase>
+            <phrase pos="N">through a door</phrase>
+            <phrase pos="CONJ">and</phrase>
+            <phrase pos="N">someone</phrase>
+            <phrase pos="V">is waiting</phrase>
+            <phrase pos="PREP">towards</phrase>
+            <phrase pos="N">you</phrase>
+        </frag>
+        <frag n="1">
+            <phrase pos="CONJ">and</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">'re calculating</phrase>
+            <phrase pos="N">the distance</phrase>
+            <phrase pos="N">from you and them</phrase>
+            <phrase pos="V">to use</phrase>
+            <phrase pos="N">the formula</phrase>
+            <phrase pos="N">if whether you keep the door </phrase>
+            <phrase pos="V">open</phrase>
+            <phrase pos="N">for them</phrase>
+        </frag>
+    </text>
+</meme>

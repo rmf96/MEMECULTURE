@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Completing and releasing a game</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Spending hours making a game</phrase>
+            <phrase pos="PREP">that ends up incomplete</phrase>
+        </frag>
+    </text>
+</meme>

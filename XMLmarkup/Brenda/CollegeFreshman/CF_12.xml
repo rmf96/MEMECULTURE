@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">hangs up</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase role="OBJ" pos="N">Bob Marley poster</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="ADV">only</phrase>
+            <phrase pos="V">likes</phrase>
+            <phrase role="OBJ" pos="N">one song</phrase>
+        </frag>
+    </text>
+</meme>

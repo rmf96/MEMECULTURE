@@ -2,13 +2,14 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" presence="null" role="SUBJ"/>
-        <phrase pos="N">plz no</phrase>
-        <phrase pos="V">trim tomorrow</phrase>
-        <phrase pos="V">so scare</phrase>
-        <phrase pos="V">why this happened</phrase>
-        <phrase pos="V">nvr scratch again</phrase>
-        <phrase pos="V">plz</phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="N">plz no</phrase>
+            <phrase pos="V">trim tomorrow</phrase>
+            <phrase pos="V">so scare</phrase>
+            <phrase pos="V">why this happened</phrase>
+            <phrase pos="V">nvr scratch again</phrase>
+            <phrase pos="V">plz</phrase>
+        </frag>
     </text>
 </meme>
-

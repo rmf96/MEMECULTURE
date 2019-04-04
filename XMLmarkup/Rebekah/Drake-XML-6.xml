@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Drake</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Anime girls</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="N" role="SUBJ">Anime women</phrase>
+        </frag>
+    </text>
+</meme>

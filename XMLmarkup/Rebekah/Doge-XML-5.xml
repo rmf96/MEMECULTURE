@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" role="SUBJ">Doge of Venice</phrase>
-        <phrase pos="ADJ">so serene</phrase>
-        <phrase pos="INT">very wow</phrase>
-        <phrase pos="N">many profit</phrase>
-        <phrase pos="N">much fashion</phrase>
-        <phrase pos="N">much leadership</phrase>
-        <phrase pos="N">so renaissance</phrase>
-        <phrase pos="N">such republic</phrase>
-        <phrase pos="N" role="SUBJ">doge doge</phrase>
+        <frag n="1">
+            <phrase pos="N" role="SUBJ">Doge of Venice</phrase>
+            <phrase pos="ADJ">so serene</phrase>
+            <phrase pos="INT">very wow</phrase>
+            <phrase pos="N">many profit</phrase>
+            <phrase pos="N">much fashion</phrase>
+            <phrase pos="N">much leadership</phrase>
+            <phrase pos="N">so renaissance</phrase>
+            <phrase pos="N">such republic</phrase>
+            <phrase pos="N" role="SUBJ">doge doge</phrase>
+        </frag>
     </text>
 </meme>
-

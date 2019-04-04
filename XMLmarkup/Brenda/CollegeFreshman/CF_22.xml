@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>College Freshman</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">Homework 5</phrase>
+            <phrase pos="V">has</phrase>
+            <phrase pos="ADV">just</phrase>
+            <phrase pos="V">been posted</phrase>
+        </frag>
+        <frag n="2">
+            <phrase role="SUBJ" presence="null" pos="N"/>
+            <phrase pos="V">Haven't</phrase>
+            <phrase pos="ADV">even</phrase>
+            <phrase pos="V">started</phrase>
+            <phrase pos="N">Homework 4</phrase>
+        </frag>
+    </text>
+</meme>
+

@@ -2,13 +2,14 @@
 <meme>
     <title>Doge</title>
     <text type="floating">
-        <phrase pos="N" presence="null" role="SUBJ"/>
-        <phrase pos="N">such meme</phrase>
-        <phrase pos="N">so friend</phrase>
-        <phrase pos="N">much human</phrase>
-        <phrase pos="INT">such wow</phrase>
-        <phrase pos="N">much doge</phrase>
-        <phrase pos="V">give plz</phrase>
+        <frag n="1">
+            <phrase pos="N" presence="null" role="SUBJ"/>
+            <phrase pos="N">such meme</phrase>
+            <phrase pos="N">so friend</phrase>
+            <phrase pos="N">much human</phrase>
+            <phrase pos="INT">such wow</phrase>
+            <phrase pos="N">much doge</phrase>
+            <phrase pos="V">give plz</phrase>
+        </frag>
     </text>
 </meme>
-

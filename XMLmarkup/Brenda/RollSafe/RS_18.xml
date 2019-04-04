@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">It</phrase>
+            <phrase pos="V">can't bee</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">typo</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="PREP">If</phrase>
+            <phrase pos="N">it</phrase>
+            <phrase pos="V">doesn't have</phrase>
+            <phrase pos="DET">a</phrase>
+            <phrase pos="N">line</phrase>
+            <phrase pos="PREP">under</phrase>
+            <phrase pos="N">it</phrase>
+        </frag>
+    </text>
+</meme>

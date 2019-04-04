@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Math Lady</title>
     <text type="top-bottom">
         <frag n="1">
-            <phrase role="SUBJ" presence="null" pos="N"/>
-            <phrase pos="">Sorry</phrase>
-            <phrase pos="">we</phrase>
-            <phrase pos="">Can't</phrase>
-            <phrase pos="">do</phrase>
-            <phrase pos="">that</phrase>
-            <phrase pos="">for</phrase>
-            <phrase pos="">you</phrase>
+            <phrase pos="ADV">Sorry</phrase>
+            <phrase role="SUBJ" pos="">we</phrase>
+            <phrase pos="V">can't do</phrase>
+            <phrase pos="DET">that</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="N">you</phrase>
         </frag>
         <frag n="2">
             <phrase role="SUBJ" presence="null" pos="IN">Aw, okay</phrase>
-        </frag>
-        <frag n="3">
-            <phrase>...</phrase>
         </frag>
     </text>
 </meme>

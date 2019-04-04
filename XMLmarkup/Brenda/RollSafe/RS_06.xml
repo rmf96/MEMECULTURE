@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Roll Safe</title>
     <text type="top-bottom">
@@ -6,8 +7,7 @@
             <phrase role="SUBJ" pos="N">You</phrase>
             <phrase pos="V">can't</phrase>
             <phrase pos="V">disappoint</phrase>
-            <phrase pos="N">your</phrase>
-            <phrase pos="N">family</phrase>
+            <phrase pos="N">your family</phrase>
         </frag>
         <frag n="2">
             <phrase role="SUBJ" presence="null" pos="N"/>

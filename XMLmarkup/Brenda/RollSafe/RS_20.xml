@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" pos="N">You</phrase>
+            <phrase pos="V">can't argue</phrase>
+            <phrase pos="PREP">with</phrase>
+            <phrase pos="N">your friends</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="">If</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="">do not have</phrase>
+            <phrase pos="DET">any</phrase>
+            <phrase role="OBJ" presence="null" pos="N"/>
+        </frag>
+    </text>
+</meme>

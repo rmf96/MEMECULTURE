@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<meme>
+    <title>Roll Safe</title>
+    <text type="top-bottom">
+        <frag n="1">
+            <phrase role="SUBJ" presence="null" pos="N">You</phrase>
+            <phrase pos="V">can't forget</phrase>
+            <phrase pos="N">your anniversary</phrase>
+        </frag>
+        <frag n="2">
+            <phrase pos="PREP">If</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
+            <phrase pos="V">get married</phrase>
+            <phrase pos="PREP">on</phrase>
+            <phrase pos="N">Valentine's day</phrase>
+        </frag>
+    </text>
+</meme>
