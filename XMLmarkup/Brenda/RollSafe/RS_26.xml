@@ -5,10 +5,10 @@
     <text type="top-bottom">
         <frag n="1">
             <phrase role="SUBJ" pos="N">They</phrase>
-            <phrase pos="">can not wake</phrase>
-            <phrase pos="">you</phrase>
-            <phrase pos="">up</phrase>
-            <phrase pos="">for</phrase>
+            <phrase pos="V">can not wake</phrase>
+            <phrase pos="N">you</phrase>
+            <phrase pos="V">up</phrase>
+            <phrase pos="PREP">for</phrase>
             <phrase pos="N">school</phrase>
         </frag>
         <frag n="2">
