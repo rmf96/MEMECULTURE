@@ -10,9 +10,11 @@
             <phrase pos="N">such age</phrase>
             <phrase pos="N">very birthday</phrase>
             <phrase pos="INT">wow</phrase>
-            <phrase pos="V">plz give <phrase pos="N">cake</phrase></phrase>
+            <phrase pos="V">plz give </phrase>
+            <phrase pos="N">cake</phrase>
             <phrase pos="N">so presents</phrase>
-            <phrase pos="V">who's <phrase pos="N">chris</phrase></phrase>
+            <phrase pos="V">who's </phrase>
+            <phrase pos="N">chris</phrase>
         </frag>
     </text>
 </meme>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+
 <meme>
     <title>Doge</title>
     <text type="floating">
@@ -12,7 +14,8 @@
             <phrase pos="ADJ">such spook</phrase>
             <phrase pos="ADJ">2spoop4u</phrase>
             <phrase pos="N">Caspir's bes frend</phrase>
-            <phrase pos="V"><phrase pos="N">loyal doge</phrase> haunts ur haus 4 u</phrase>
+            <phrase pos="N">loyal doge</phrase>
+            <phrase pos="V">haunts ur haus 4 u</phrase>
             <phrase pos="N">Much screems</phrase>
         </frag>
     </text>

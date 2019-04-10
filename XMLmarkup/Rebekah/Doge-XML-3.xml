@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Doge</title>
     <text type="floating">
         <frag n="1">
             <phrase pos="ADJ">Fine</phrase>
-            <phrase pos="V"><phrase pos="N" role="SUBJ">I</phrase> r just hanging</phrase>
+            <phrase pos="N" role="SUBJ">I</phrase>
+            <phrase pos="V"> r just hanging</phrase>
             <phrase pos="V">chilling</phrase>
             <phrase pos="ADJ">s-t-u-c-k</phrase>
-            <phrase pos="V"><phrase pos="N">no worries</phrase>, <phrase pos="N">someone</phrase>
-                find <phrase pos="N">me</phrase></phrase>
+            <phrase pos="V">find </phrase>
+            <phrase pos="N">me</phrase>
+            <phrase pos="N">someone</phrase>
+            <phrase pos="N">no worries</phrase>
         </frag>
     </text>
 </meme>

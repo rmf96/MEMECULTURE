@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+
 <meme>
     <title>Doge</title>
     <text type="floating">
@@ -8,7 +10,9 @@
             <phrase pos="V">dj dnt stahp pl0x</phrase>
             <phrase pos="N">such music</phrase>
             <phrase pos="V">up all nite</phrase>
-            <phrase pos="V">mom <phrase pos="N" role="SUBJ">im</phrase> old enuf</phrase>
+            <phrase pos="N">mom</phrase>
+            <phrase pos="N" role="SUBJ">im</phrase>
+            <phrase pos="ADJ">old enough</phrase>
         </frag>
     </text>
 </meme>

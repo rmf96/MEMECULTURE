@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+
 <meme>
     <title>Doge</title>
     <text type="floating">
         <frag n="1">
-            <phrase pos="V"><phrase pos="N" role="SUBJ">doge</phrase> goes wow</phrase>
+            <phrase pos="N" role="SUBJ">doge</phrase>
+            <phrase pos="V"> goes wow</phrase>
             <phrase pos="V">cats go lol</phrase>
             <phrase pos="V">memes internally</phrase>
             <phrase pos="N">much twerk</phrase>

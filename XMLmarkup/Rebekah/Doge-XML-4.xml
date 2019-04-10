@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Doge</title>
     <text type="floating">
@@ -9,7 +10,8 @@
             <phrase pos="INT">wow</phrase>
             <phrase pos="INT">wow</phrase>
             <phrase pos="ADJ">such clean</phrase>
-            <phrase pos="V">but wait dez <phrase pos="N">more</phrase></phrase>
+            <phrase pos="V">but wait dez </phrase>
+            <phrase pos="N">more</phrase>
         </frag>
     </text>
 </meme>

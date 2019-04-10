@@ -8,8 +8,10 @@
             <phrase pos="N" presence="null" role="SUBJ"/>
             <phrase pos="N">wow cron</phrase>
             <phrase pos="V">much lik</phrase>
-            <phrase pos="V">eat lik <phrase pos="N">pepil</phrase></phrase>
-            <phrase pos="V"><phrase pos="N" role="SUBJ">sheb</phrase> am pepil</phrase>
+            <phrase pos="V">eat lik</phrase>
+            <phrase pos="N">pepil</phrase>
+            <phrase pos="N" role="SUBJ">sheb</phrase>
+            <phrase pos="V"> am pepil</phrase>
         </frag>
     </text>
 </meme>
