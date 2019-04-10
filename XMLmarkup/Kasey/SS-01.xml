@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/K.Busko/Desktop/Memeculture_proj/MEMECULTURE/Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Scumbag Steve</title>
-    <text type="top">
+    <text type="top-bottom">
         <frag n="1">
             <phrase pos="N" presence="null" role="SUBJ"/>
             <phrase pos="V">Gets</phrase>
@@ -9,8 +10,6 @@
             <phrase pos="PREP">in</phrase>
             <phrase pos="N">dodgeball</phrase>
         </frag>
-    </text>
-    <text type="bottom">
         <frag n="2">
             <phrase pos="N" presence="null" role="SUBJ"/>
             <phrase pos="V">Keeps</phrase>
