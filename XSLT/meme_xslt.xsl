@@ -15,7 +15,8 @@
                 <h3>
                     <xsl:for-each select="meme">
                         <xsl:value-of select="title"/>
-                        <xsl:value-of select="@type"/>
+                        <xsl:text> | </xsl:text>
+                        <xsl:value-of select="text/@type"/>
                     </xsl:for-each>
                 </h3>
                 <xsl:apply-templates select="//text"/>
@@ -25,9 +26,16 @@
     <xsl:template match="text">
         <xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="phrase">
+  <!--  <xsl:template match="frag">
+        <h4>
+            <xsl:apply-templates select="@n"/>
+        </h4>
+        <xsl:apply-templates/>
+        <br/>
+    </xsl:template> -->
+    <xsl:template match="frag">
         <xsl:choose>
-            <xsl:when test="@role = 'SUBJ' and @presence = 'null'">
+            <xsl:when test="phrase[@role='SUBJ' and @presence='null']">
                 <span class="null">
                     <xsl:apply-templates/>
                 </span>
