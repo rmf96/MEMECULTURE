@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+
 <meme>
     <title>Drake</title>
     <text type="top-bottom">
         <frag n="1">
             <phrase pos="ADV">when</phrase>
             <phrase pos="N" role="SUBJ">you</phrase>
-            <phrase pos="V">close <phrase pos="N" role="OBJ">task manager</phrase> by clicking the x</phrase>
+            <phrase pos="V">close</phrase>
+            <phrase pos="N" role="OBJ">task manager</phrase>
+            <phrase pos="PREP">by</phrase>
+            <phrase pos="V">clicking</phrase>
+            <phrase pos="N">the x</phrase>
         </frag>
         <frag n="2">
             <phrase pos="ADV">when</phrase>
             <phrase pos="N" role="SUBJ">you</phrase>
-            <phrase pos="V">close <phrase pos="N" role="OBJ">task manager</phrase> in task manager</phrase>
+            <phrase pos="V">close</phrase> 
+            <phrase pos="N" role="OBJ">task manager</phrase> 
+            <phrase pos="N">in task manager</phrase>
         </frag>
     </text>
 </meme>

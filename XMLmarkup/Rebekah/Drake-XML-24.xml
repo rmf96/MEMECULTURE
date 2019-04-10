@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
+
 <meme>
     <title>Drake</title>
     <text type="top-bottom">
         <frag n="1">
             <phrase pos="V">Do homework</phrase>
-            <phrase pos="PREP">that will make <phrase pos="N" role="SUBJ">him</phrase>millions one day</phrase>
+            <phrase pos="PREP">that will make</phrase>
+            <phrase pos="N" role="SUBJ">him</phrase>
+            <phrase pos="N">millions one day</phrase>
         </frag>
         <frag n="2">
             <phrase pos="V">Make memes</phrase>
