@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/K.Busko/Desktop/Memeculture_proj/MEMECULTURE/Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
     <title>Lisa Simpson Powerpoint</title>
     <text type="top">
@@ -7,7 +8,7 @@
             <phrase pos="DET">every</phrase>
             <phrase pos="N" role="SUBJ">villain</phrase>
             <phrase pos="V">deserve</phrase>
-            <phrase pos="DET">a<phrase>
+            <phrase pos="DET">a</phrase>
             <phrase pos="N" role="OBJ">redemption arc</phrase>
             <phrase pos="ADV">There</phrase>
             <phrase pos="V">is</phrase>
