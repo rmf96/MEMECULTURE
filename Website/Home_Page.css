@@ -5,7 +5,7 @@ h2 {
     text-align: center; 
 }
 body {
-    background-color: Tomato;
+    background-color: DarkSlateBlue;
 }
 #HomeHome {
     
@@ -18,7 +18,7 @@ body {
     display: none;
 }
 #DropdownHome:hover #pagesHome {
-    background-color: white;
+    background-color: LightSkyBlue;
     display: block; 
     position: absolute;
 }#HomeAbout {
@@ -32,7 +32,7 @@ body {
     display: none;
 }
 #DropdownAbout:hover #pagesAbout {
-    background-color: white;
+    background-color: LightSkyBlue;
     display: block; 
     position: absolute;
 }
@@ -47,7 +47,7 @@ body {
     display: none;
 }
 #DropdownCorpus:hover #pagesCorpus {
-    background-color: white;
+    background-color: LightSkyBlue;
     display: inline-block;
     position: absolute;
 }
@@ -63,7 +63,7 @@ body {
 
 }
 #DropdownResults:hover #pagesResults {
-    background-color: white;
+    background-color: LightSkyBlue;
     display: block;
     position: absolute;
 }
@@ -81,7 +81,7 @@ p{
   width: 50%;
 }
 #second{
-    background-color: gray;
+    background-color: AliceBlue;
     color: black;
     padding: 15px;
     width: 1000px;
