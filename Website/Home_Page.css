@@ -1,6 +1,9 @@
 h1 {
     background-color: LightSkyBlue; text-align: center; 
 }
+h2 {
+    text-align: center; 
+}
 body {
     background-color: Tomato;
 }
