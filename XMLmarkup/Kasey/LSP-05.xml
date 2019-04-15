@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="file:/Users/K.Busko/Desktop/Memeculture_proj/MEMECULTURE/Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
-    <title>Lisa Simpson Powerpoint</title>
+    <title>Lisa Simpson Powerpoint 5</title>
     <text type="top">
         <frag n="1">
             <phrase pos="N" role="SUBJ">The Big Bang Theory</phrase>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="file:/Users/K.Busko/Desktop/Memeculture_proj/MEMECULTURE/Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
-    <title>Scumbag Steve</title>
+    <title>Scumbag Steve 27</title>
     <text type="top">
         <frag n="1">
             <phrase pos="N" presence="null" role="SUBJ"/>
