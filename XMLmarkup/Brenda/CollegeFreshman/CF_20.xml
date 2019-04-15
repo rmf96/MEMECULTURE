@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
-    <title>College Freshman</title>
+    <title>College Freshman 20</title>
     <text type="top-bottom">
         <frag n="1">
             <phrase role="SUBJ" pos="N">Professor</phrase>
@@ -11,7 +11,7 @@
         <frag n="2">
             <phrase pos="V">Wait</phrase>
             <phrase pos="ADV">so</phrase>
-            <phrase pos="V">do <phrase role="SUBJ" pos="N">we</phrase> have</phrase>
+            <phrase pos="V">do we have</phrase>
             <phrase pos="N">homework</phrase>
         </frag>
     </text>
