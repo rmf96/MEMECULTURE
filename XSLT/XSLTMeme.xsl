@@ -12,7 +12,7 @@
             <body>
                <h1>Meme</h1>
                <h2>Contents</h2>
-            </body>           
+            </body>
         </html>
     </xsl:template>
     <xsl:template match="phrase">
