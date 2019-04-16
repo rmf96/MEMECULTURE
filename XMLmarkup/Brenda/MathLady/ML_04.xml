@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../Schema/Schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <meme>
-    <title>Math Lady</title>
+    <title>Math Lady 4</title>
     <text type="top-bottom">
         <frag n="1">
-            <phrase role="SUBJ" presence="null" pos="N"/>
             <phrase pos="N">hey</phrase>
             <phrase pos="PREP">if</phrase>
-            <phrase pos="N">you</phrase>
+            <phrase role="SUBJ" pos="N">you</phrase>
             <phrase pos="V">have</phrase>
             <phrase pos="DET">a</phrase>
             <phrase pos="N">cone</phrase>
