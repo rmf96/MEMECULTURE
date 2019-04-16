@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memes>
+    <meme>
+        <title>Roll Safe 1</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Can't</phrase>
+                <phrase pos="V">have</phrase>
+                <phrase pos="N">patriarchy</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">have</phrase>
+                <phrase pos="DET">no</phrase>
+                <phrase pos="N">hierarchies</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 2</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't</phrase>
+                <phrase pos="V">kill</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">meme</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">it</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="V">used</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">everything</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 3</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="ADV">Only</phrase>
+                <phrase pos="V">do</phrase>
+                <phrase pos="DET">half</phrase>
+                <phrase pos="PREP">of</phrase>
+                <phrase pos="DET">each</phrase>
+                <phrase pos="N">task</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="N">bottom</phrase>
+                <phrase pos="N">text</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 4</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="DET">There</phrase>
+                <phrase pos="V">can't</phrase>
+                <phrase pos="V">be</phrase>
+                <phrase pos="DET">any</phrase>
+                <phrase role="SUBJ" pos="N">tax</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="PREP">If</phrase>
+                <phrase pos="DET">there</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="DET">no</phrase>
+                <phrase pos="ADJ">such</phrase>
+                <phrase pos="N">thing</phrase>
+                <phrase pos="PREP">as</phrase>
+                <phrase pos="N">money</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="ADJ">first</phrase>
+                <phrase pos="N">place</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 5</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">do not have to worry</phrase>
+                <phrase pos="PREP">about</phrase>
+                <phrase pos="N">Youtube</phrase>
+                <phrase pos="V">demonetizing</phrase>
+                <phrase pos="N">your videos</phrase>
+                <phrase pos="PREP">if</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">do not monetize</phrase>
+                <phrase pos="N">them</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="ADJ">first</phrase>
+                <phrase pos="N">place</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>Roll Safe 6</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't</phrase>
+                <phrase pos="V">disappoint</phrase>
+                <phrase pos="N">your family</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="PREP">If</phrase>
+                <phrase pos="V">you've</phrase>
+                <phrase pos="ADV">never</phrase>
+                <phrase pos="V">made</phrase>
+                <phrase pos="N">them</phrase>
+                <phrase pos="ADJ">proud</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="ADJ">first</phrase>
+                <phrase pos="N">place</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 7</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't form</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">union</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">we</phrase>
+                <phrase pos="V">fire</phrase>
+                <phrase pos="N">everyone</phrase>
+                <phrase pos="PREP">if</phrase>
+                <phrase pos="N">anybody</phrase>
+                <phrase pos="ADV">even</phrase>
+                <phrase pos="V">talks</phrase>
+                <phrase pos="PREP">about</phrase>
+                <phrase pos="N">it</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 8</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">can't get</phrase>
+                <phrase pos="N">addiction</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="ADV">never</phrase>
+                <phrase pos="V">try</phrase>
+                <phrase pos="ADJ">dangerous</phrase>
+                <phrase pos="N">habit</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 9</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">can't be disappointed</phrase>
+                <phrase pos="PREP">by</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">game</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">'ve(have) lost</phrase>
+                <phrase pos="DET">all</phrase>
+                <phrase pos="N">faith</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="ADJ">game</phrase>
+                <phrase pos="N">companies</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 10</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">can't go to</phrase>
+                <phrase pos="N">hell</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">do not</phrase>
+                <phrase pos="N">sin</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 11</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Do not cite</phrase>
+                <phrase pos="N">Wikipedia</phrase>
+                <phrase pos="V">cite</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">sources</phrase>
+                <phrase pos="PREP">from</phrase>
+                <phrase pos="N">Wikipedia</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 12</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="">can't have</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="ADJ">mid-life</phrase>
+                <phrase pos="N">crisis</phrase>
+                <phrase pos="PREP">If</phrase>
+                <phrase pos="N">your entire life</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">crisis</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 13</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">don't need to test</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">game</phrase>
+                <phrase pos="PREP">if</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">release</phrase>
+                <phrase pos="N">it</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">beta</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 14</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">People</phrase>
+                <phrase pos="V">can't use</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="PREP">if</phrase>
+                <phrase pos="V">you're</phrase>
+                <phrase pos="ADJ">useless</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 15</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">can't get arrested</phrase>
+                <phrase pos="PREP">at</phrase>
+                <phrase pos="N">parties</phrase>
+                <phrase pos="PREP">if</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="ADV">never</phrase>
+                <phrase pos="V">leave</phrase>
+                <phrase pos="N">your dorm</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 16</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">can't be</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">danger</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">are</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">danger</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 17</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">We</phrase>
+                <phrase pos="V">won't need to grant</phrase>
+                <phrase pos="N">robots</phrase>
+                <phrase pos="N">rights</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">we</phrase>
+                <phrase pos="V">don't make</phrase>
+                <phrase pos="N">them</phrase>
+                <phrase pos="ADJ">smart enough</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 18</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">It</phrase>
+                <phrase pos="V">can't bee</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">typo</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase pos="N">it</phrase>
+                <phrase pos="V">doesn't have</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">line</phrase>
+                <phrase pos="PREP">under</phrase>
+                <phrase pos="N">it</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 19</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ"  pos="N">You</phrase>
+                <phrase pos="V">can't break up</phrase>
+                <phrase pos="N">your girlfriend</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">don't have</phrase>
+                <phrase pos="N">one</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 20</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't argue</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="N">your friends</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="">do not have</phrase>
+                <phrase pos="DET">any</phrase>
+                <phrase role="OBJ" presence="null" pos="N"/>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 21</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="">can convert</phrase>
+                <phrase pos="N">kinetic energy</phrase>
+                <phrase pos="V">to</phrase>
+                <phrase pos="N">thermal energy</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="">Does</phrase>
+                <phrase pos="PREP">that</phrase>
+                <phrase pos="">mean</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="">can make</phrase>
+                <phrase pos="">fried chicken</phrase>
+                <phrase pos="ADV">just</phrase>
+                <phrase pos="PREP">by</phrase>
+                <phrase pos="V">punching</phrase>
+                <phrase role ="OBJ" pos="N">it</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 22</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">can't get fired</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">don't have</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="OBJ" pos="N">job</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 23</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't have</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">morning mood</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">sleep</phrase>
+                <phrase pos="PREP">till</phrase>
+                <phrase pos="N">noon</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 24</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Don't need to pay</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase role="OBJ" pos="N">your phone</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">don't have</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="OBJ" pos="N">phone</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 25</title>
+        <text type="singular-top">
+            <frag n="1">
+                <phrase pos="PREP">If</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="subj" pos="N">genie</phrase>
+                <phrase pos="V">tells</phrase>
+                <phrase  pos="N">you</phrase>
+                <phrase pos="PREP">that</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">can't wish</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="ADJ">more</phrase>
+                <phrase pos="N">wishes</phrase>
+                <phrase pos="ADV">just</phrase>
+                <phrase pos="V">wish</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="ADJ">more</phrase>
+                <phrase pos="N">genies</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 26</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">They</phrase>
+                <phrase pos="V">can not wake</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">up</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">school</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">did</phrase>
+                <phrase pos="ADV">not even</phrase>
+                <phrase pos="V">sleep</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>Roll Safe 27</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't boycott</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">oscars</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">don't watch</phrase>
+                <phrase pos="N">them</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 28</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">You</phrase>
+                <phrase pos="V">can't forget</phrase>
+                <phrase pos="N">your anniversary</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">get married</phrase>
+                <phrase pos="PREP">on</phrase>
+                <phrase pos="N">Valentine's day</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 29</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">can't clean</phrase>
+                <phrase pos="DET">a </phrase>
+                <phrase role="OBJ" pos="N">house</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">don't have</phrase>
+                <phrase pos="N">one</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Roll Safe 30</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="ADV">Always</phrase>
+                <phrase pos="V">steal</phrase>
+                <phrase pos="N">memes</phrase>
+                <phrase pos="PREP">from</phrase>
+                <phrase pos="N">anonymous users</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">They</phrase>
+                <phrase pos="V">can't say</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">stole</phrase>
+                <phrase pos="PREP">from</phrase>
+                <phrase pos="N">them</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 1</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Me</phrase>
+                <phrase pos="V">trying</phrase>
+                <phrase pos="V"> to understand</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">MATHLAB code</phrase>
+                <phrase pos="N">I</phrase>
+                <phrase pos="V">wrote</phrase>
+                <phrase pos="N">3 weeks</phrase>
+                <phrase pos="PREP">ago</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 2</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V"> hear</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">government</phrase>
+                <phrase pos="N">employee</phrase>
+                <phrase pos="V">complaining</phrase>
+                <phrase pos="PREP">about</phrase>
+                <phrase pos="V">needing</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">raise</phrase>
+                <phrase pos="PREP">because</phrase>
+                <phrase pos="N">taxes</phrase>
+                <phrase pos="V">are</phrase>
+                <phrase pos="ADV">too</phrase>
+                <phrase pos="ADJ">high</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>Math Lady 3</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">Sorry</phrase>
+                <phrase role="SUBJ" pos="">we</phrase>
+                <phrase pos="V">can't do</phrase>
+                <phrase pos="DET">that</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">you</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="IN">Aw, okay</phrase>
+            </frag>
+        </text>
+    </meme>
+        <meme>
+            <title>Math Lady 4</title>
+            <text type="top-bottom">
+                <frag n="1">
+                    <phrase pos="N">hey</phrase>
+                    <phrase pos="PREP">if</phrase>
+                    <phrase role="SUBJ" pos="N">you</phrase>
+                    <phrase pos="V">have</phrase>
+                    <phrase pos="DET">a</phrase>
+                    <phrase pos="N">cone</phrase>
+                    <phrase pos="ADV">where</phrase>
+                    <phrase pos="DET">the</phrase>
+                    <phrase pos="N">length</phrase>
+                    <phrase pos="PREP">of</phrase>
+                    <phrase pos="DET">the</phrase>
+                    <phrase pos="N">diagonal</phrase>
+                    <phrase pos="CONJ">and</phrase>
+                    <phrase pos="N">angle</phrase>
+                    <phrase pos="V">are</phrase>
+                    <phrase pos="V">given</phrase>
+                    <phrase pos="N">what</phrase>
+                    <phrase pos="V">'s</phrase>
+                    <phrase pos="DET">the</phrase>
+                    <phrase pos="N">volume</phrase>
+                </frag>
+                <frag n="2">
+                    <phrase pos="DET">which</phrase>
+                    <phrase pos="N">formulas</phrase>
+                    <phrase pos="V">are</phrase>
+                    <phrase pos="ADJ">useful</phrase>
+                </frag>
+                <frag n="3">
+                    <phrase pos="null">...</phrase>
+                </frag>
+            </text>
+        </meme>
+        <title>Math Lady 5</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Your</phrase>
+                <phrase pos="N">total</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="N">$9.95</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">hands</phrase>
+                <phrase pos="N">cash</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">types</phrase>
+                <phrase pos="N">amount</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">system</phrase>
+            </frag>
+            <frag n="4">
+                <phrase pos="IN">oh</phrase>
+                <phrase pos="ADV">here</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="N">30 cents</phrase>
+            </frag>
+        </text>
+    
+    <meme>
+        <title>Math Lady 6</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">Everyone</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="ADV">so</phrase>
+                <phrase pos="ADJ">gullible</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N">Avril Lavigne</phrase>
+                <phrase pos="V">was murdered and replaced</phrase>
+                <phrase pos="PREP">by</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">government</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 7</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">woman</phrase>
+                <phrase pos="V">says she's</phrase>
+                <phrase pos="N">29 weeks pregnant</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 8</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Getting</phrase>
+                <phrase pos="N">dejavu</phrase>
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="V">wondering</phrase>
+                <phrase pos="PREP">if</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="ADV">accidently</phrase>
+                <phrase pos="V">traveled back</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">time</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 9</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">topic</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">'re discussing is</phrase>
+                <phrase pos="ADJ">general and random</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">And paranoid people</phrase>
+                <phrase pos="V">think you're talking</phrase>
+                <phrase pos="PREP">about</phrase>
+                <phrase pos="N">them</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 10</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">order</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="OBJ" pos="N">sprite</phrase>
+                <phrase pos="PREP">from</phrase>
+                <phrase pos="N">Dominos</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="CONJ">And</phrase>
+                <phrase pos="V">it says</phrase>
+                <phrase pos="N">your order</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">oven</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 11</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">someone</phrase>
+                <phrase pos="V">asks</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">question</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">About</phrase>
+                <phrase pos="N">mental health</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 12</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">find out you have</phrase>
+                <phrase pos="N">fingertips</phrase>
+                <phrase pos="CONJ">but</phrase>
+                <phrase pos="ADV">not</phrase>
+                <phrase pos="N">toetips</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="ADV">Yet</phrase>
+                <phrase pos="N">You</phrase>
+                <phrase pos="V">can tiptoe...tipfiger</phrase>
+                <phrase pos="ADV">not</phrase>
+                <phrase pos=""></phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 13</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">'re</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">your 20s</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">Trying to calculate</phrase>
+                <phrase pos="ADV">when</phrase>
+                <phrase pos="V">to take</phrase>
+                <phrase pos="N">your sleep aids</phrase>
+                <phrase pos="ADV">so</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">can pass out</phrase>
+                <phrase pos="PREP">by</phrase>
+                <phrase pos="N">10 PM</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 14</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">see</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">Youtube video</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="ADJ">more</phrase>
+                <phrase pos="N">likes</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">Than</phrase>
+                <phrase pos="N">views</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 15</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="N">That moment</phrase>
+                <phrase pos="ADV">when</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">'re</phrase>
+                <phrase pos="PREP">at</phrase>
+                <phrase pos="N">work</phrase>
+                
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="CONJ">And</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="PREP">like</phrase>
+                <phrase pos="V">why am I doing </phrase>
+                <phrase pos="DET">this</phrase>
+                <phrase pos="ADV">again</phrase>
+                <phrase pos="IN">Oh yeah</phrase>
+                <phrase pos="N">money</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>Math Lady 16</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Me</phrase>
+                <phrase pos="V">trying to figure out</phrase>
+                <phrase pos="ADV">how</phrase>
+                <phrase pos="ADV">long</phrase>
+                <phrase pos="V">I'll need to spend</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">shower</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">If</phrase>
+                <phrase pos="N">I</phrase>
+                <phrase pos="ADV">ever</phrase>
+                <phrase pos="V">want to feel</phrase>
+                <phrase pos="ADJ">clean</phrase>
+                <phrase pos="ADV">again</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 17</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">You</phrase>
+                <phrase pos="V">forgot</phrase>
+                <phrase pos="N">your phone password</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 18</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Lightning McQueen</phrase>
+                <phrase pos="V">have</phrase>
+                <phrase pos="N">car insurance or life insurance</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="DET">Both</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 19</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">come back to</phrase>
+                <phrase pos="ADV">school</phrase>
+                <phrase pos="ADV">after</phrase>
+                <phrase pos="V">2 weeks</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="CONJ">And</phrase>
+                <phrase pos="N">must write</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">test</phrase>
+                <phrase pos="CONJ">that</phrase>
+                <phrase pos="ADV">you</phrase>
+                <phrase pos="V">never heaard of"</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 20</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">ask</phrase>
+                <phrase pos="N">your S.O</phrase>
+                <phrase pos="ADV">why</phrase>
+                <phrase pos="N">they</phrase>
+                <phrase pos="ADJ">mad</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="N">they</phrase>
+                <phrase pos="V">reply</phrase>
+                <phrase pos="N">"you know why"</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 21</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">'re walking</phrase>
+                <phrase pos="N">through a door</phrase>
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="N">someone</phrase>
+                <phrase pos="V">is waiting</phrase>
+                <phrase pos="PREP">towards</phrase>
+                <phrase pos="N">you</phrase>
+            </frag>
+            <frag n="1">
+                <phrase pos="CONJ">and</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">'re calculating</phrase>
+                <phrase pos="N">the distance</phrase>
+                <phrase pos="N">from you and them</phrase>
+                <phrase pos="V">to use</phrase>
+                <phrase pos="N">the formula</phrase>
+                <phrase pos="N">if whether you keep the door </phrase>
+                <phrase pos="V">open</phrase>
+                <phrase pos="N">for them</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 22</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="N">2 hours</phrase>
+                <phrase pos="PREP">into</phrase>
+                <phrase pos="N">my diet</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="ADV">Why</phrase>
+                <phrase pos="V">am</phrase>
+                <phrase pos="N">I</phrase>
+                <phrase pos="V">doing</phrase>
+                <phrase pos="ADJ">this</phrase>
+                <phrase pos="ADV">again</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 23</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Me</phrase>
+                <phrase pos="V">trying to figure out</phrase>
+                <phrase pos="ADV">why</phrase>
+                <phrase pos="N">people</phrase>
+                <phrase pos="V">are</phrase>
+                <phrase pos="ADJ">so unreliable</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 24</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">Memorizing</phrase>
+                <phrase pos="N">shop employee's shifts</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">so that</phrase>
+                <phrase pos="ADV">always</phrase>
+                <phrase pos="V">hitting on </phrase>
+                <phrase pos="N"> you</phrase>
+                <phrase pos="N">prick</phrase>
+                <phrase pos="V">isn't</phrase>
+                <phrase pos="N">there next time</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 25</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Studying</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">optimal solution</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="CONJ">BUT</phrase>
+                <phrase pos="V">we're</phrase>
+                <phrase pos="N">bounded rational creatures</phrase>
+                <phrase pos="V">unable to make</phrase>
+                <phrase pos="N">optimal decisions</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 26</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Trying to figure out</phrase>
+                <phrase pos="N">hints</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="PREP">that</phrase>
+                <phrase pos="N">girls</phrase>
+                <phrase pos="V"> give</phrase>
+                <phrase pos="N">me</phrase>
+                <phrase pos="PREP">like</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 27</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">your man</phrase>
+                <phrase pos="V">cheats</phrase>
+                <phrase pos="PREP">on</phrase>
+                <phrase pos="N">you</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="N">someone</phrase>
+                <phrase pos="ADV">less</phrase>
+                <phrase pos="ADJ">attractive</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 28</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">My brain</phrase>
+                <phrase pos="PREP">after</phrase>
+                <phrase pos="V">I've done</phrase>
+                <phrase role="OBJ" pos="N">math</phrase>
+                <phrase pos="ADJ">successfully</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="DET">The</phrase>
+                <phrase pos="N">free trial</phrase>
+                <phrase pos="V">has ended please subscribe</phrase>
+                <phrase pos="N"> the premium only 19.99 a month</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>Math Lady 29</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="ADV">When</phrase>
+                <phrase role="SUBJ" pos="N">you</phrase>
+                <phrase pos="V">screwed up</phrase>
+                <phrase pos="ADJ">big</phrase>
+                <phrase pos="N">time</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">person</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="PREP">that</phrase>
+                <phrase pos="N">same person</phrase>
+                <phrase pos="V"> decided to talk to</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="ADV">again</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Math Lady 30</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="V">Take</phrase>
+                <phrase pos="N">chemistry</phrase>
+                <phrase role="SUBJ" pos="N">they</phrase>
+                <phrase pos="V">said</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">It'll be</phrase>
+                <phrase pos="ADJ">easy</phrase>
+                <phrase pos="N">they</phrase>
+                <phrase pos="V">said</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 1</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ"  pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">Solar eclipse</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" pos="N">Scientific evidence</phrase>
+                <phrase pos="V">supporting</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">dangers</phrase>
+                <phrase pos="PREP">of</phrase>
+                <phrase pos="V">staring</phrase>
+                <phrase pos="PREP">at</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">sun</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 2</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ"  pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">Despacito</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="ADV">Actually</phrase>
+                <phrase pos="ADJ">good</phrase>
+                <phrase role="SUBJ" pos="N">songs</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 3</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">doing what you like</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="V">Complaining</phrase>
+                <phrase role="OBJ" pos="N">about trends</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 4</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">Memes</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" pos="N">Productivity</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 5</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="ADV">actually</phrase>
+                <phrase pos="V">talking</phrase>
+                <phrase pos="PREP">to</phrase>
+                <phrase pos="N">girls</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">making</phrase>
+                <phrase pos="N">posts</phrase>
+                <phrase pos="PREP">about</phrase>
+                <phrase pos="V">wanting</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">gf</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 6</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="">Almost</phrase>
+                <phrase pos="">expired</phrase>
+                <phrase pos="N">milk</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" pos="N">Milk</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="N">expiration</phrase>
+                <phrase pos="N">date</phrase>
+                <phrase pos="PREP">at</phrase>
+                <phrase pos="ADJ">least</phrase>
+                <phrase pos="N">2 weeks</phrase>
+                <phrase pos="ADV">away</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 7</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="ADJ">Real</phrase>
+                <phrase pos="N">men</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="ADJ">fictional</phrase>
+                <phrase role="SUBJ" pos="N">characters</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 8</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase pos="DET">The</phrase>
+                <phrase pos="ADJ">whole</phrase>
+                <phrase role="SUBJ" presence="null" pos="N">world</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="">Peace</phrase>
+                <phrase pos="">and</phrase>
+                <phrase pos="">love</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" presence="null" pos="N">Ignorance</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 9</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">my man</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">Jolene</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 10</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">College</phrase>
+                <phrase role="SUBJ" pos="N">parents</phrase>
+                <phrase role="SUBJ" pos="N">capitalism</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Running</phrase>
+                <phrase pos="ADV">away</phrase>
+                <phrase pos="V">to live</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">woods</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 11</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">America's oil</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">America</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" pos="N">Other countries oil</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 12</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="DET">The</phrase>
+                <phrase pos="ADJ">raw</phrase>
+                <phrase pos="V">bleeding</phrase>
+                <phrase pos="N">roof</phrase>
+                <phrase pos="PREP">of</phrase>
+                <phrase pos="N">my</phrase>
+                <phrase role="SUBJ" pos="N">mouth</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="DET">another</phrase>
+                <phrase pos="N">bowl</phrase>
+                <phrase pos="PREP">of</phrase>
+                <phrase pos="N">Cap'n Crunch</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 13</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Harry</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">Ron and Hermione</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">dangerous situations</phrase>
+                <phrase pos="PREP">that</phrase>
+                <phrase pos="V">result in dying</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 14</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">real life</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">tumblr</phrase>
+            </frag>
+            <frag n="4">
+                <phrase pos="V" presence="null"/>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 15</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Hugh Hefner's ghost</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">desperate young women</phrase>
+                <phrase pos="V">willing to do</phrase>
+                <phrase pos="N">anything</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">money</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">Other elderly millionaries</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 16</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">TV show writers</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">well-developed and consistent plots and characters</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">Shock value</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 17</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">important stuff like school, friends, and sleep</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="V">Obsessing</phrase>
+                <phrase role="OBJ" pos="N">over fictional characters and people I</phrase>
+                <phrase pos="V">'ll...meet</phrase>
+                <phrase pos="ADV">never</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 18</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Bruce Wayne</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">seeing</phrase>
+                <phrase pos="N">a therapist</phrase>
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="V">dealing</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="N">his trauma</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="V">Dressing up</phrase>
+                <phrase pos="N">as a bat</phrase>
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="N">beating the shit out of poeple</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>Distracted Boyfriend 19</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">running away to live</phrase>
+                <phrase pos="N">in the woods</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">College, parents, capitalism</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 20</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">my instruments</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">all the intruments I</phrase>
+                <phrase pos="V">can't play</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 21</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">America</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">American's oil</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">Other countries' oil</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 22</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Henry VII</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">Katherine of Aragon</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="">Anne Boleyn</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 23</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Tumblr</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">the real world</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">edgy political philosophies</phrase>
+                <phrase pos="V">that only work</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">theory</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 24</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">my dad's ghost</phrase>
+            </frag>
+            <frag n="3">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="N">a friend</phrase>
+                <phrase pos="V">who thinks</phrase>
+                <phrase pos="N">the ghost</phrase>
+                <phrase pos="V">will drive </phrase>
+                <phrase pos="N">me insane</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 25</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">memes</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">my work, school, friends, relationships, and other responsibilites</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 26</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">TWitter user aware of the stigma against unironic use of an oversaturated meme</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">Oversaturate meme</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">Meta meme about the meme</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 27</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">sleep</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">tumblr</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 28</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">makeup</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">my skin</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 29</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">my bank account</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">my amazon wishlist</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 30</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">normal healthy sleep schedule</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="V">Staying up</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="DET">no</phrase>
+                <phrase pos="N">reason</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 1</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Goes</phrase>
+                <phrase pos="PREP">on</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">beer run</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Sits</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">car</phrase>
+                <phrase pos="PREP">at</phrase>
+                <phrase pos="N">liquor store</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 2</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Says</phrase>
+                <phrase pos="N">he</phrase>
+                <phrase pos="V">needed</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">smartphone</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">college</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Buys</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="OBJ" pos="N">sidekick</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>College Freshman 3</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Loves</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">freedom</phrase>
+                <phrase pos="PREP">of</phrase>
+                <phrase pos="N">college life</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Drives</phrase>
+                <phrase pos="N">home</phrase>
+                <phrase pos="">every</phrase>
+                <phrase pos="N">weekend</phrase>
+                <phrase pos="PREP">so</phrase>
+                <phrase pos="N">mom</phrase>
+                <phrase pos="V">can do</phrase>
+                <phrase role="OBJ" pos="N">his laundry</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 4</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Makes</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="OBJ" pos="N">college meme</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">is</phrase>
+                <phrase pos="ADV">not</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">college</phrase>
+                <phrase pos="ADV">yet</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 5</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase pos="V">Introduce</phrase>
+                <phrase role="SUBJ" pos="N">him</phrase>
+                <phrase pos="PREP">to</phrase>
+                <phrase pos="N">your friends</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">Acts</phrase>
+                <phrase pos="PREP">like</phrase>
+                <phrase role="SUBJ" pos="N">he</phrase>
+                <phrase pos="V">knows</phrase>
+                <phrase pos="N">them</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">years</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 6</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Nobody</phrase>
+                <phrase pos="PREP">around</phrase>
+                <phrase pos="ADV">here</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="ADV">very</phrase>
+                <phrase pos="ADJ">friendly</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Wears</phrase>
+                <phrase pos="N">earbuds</phrase>
+                <phrase pos="ADV">everywhere</phrase>
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="ADV">always</phrase>
+                <phrase pos="V">looking</phrase>
+                <phrase pos="PREP">at</phrase>
+                <phrase role="OBJ" pos="N">his phone</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 7</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="ADV">Never</phrase>
+                <phrase pos="V">stops quoting</phrase>
+                <phrase role="OBJ" pos="N">pulp fiction</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Has</phrase>
+                <phrase pos="ADV">never</phrase>
+                <phrase pos="V">seen</phrase>
+                <phrase role="OBJ" pos="N">it</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 8</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Buys</phrase>
+                <phrase pos="DET">all</phrase>
+                <phrase pos="ADJ">recommended</phrase>
+                <phrase role="OBJ" pos="N">textbooks</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 9</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Thinks</phrase>
+                <phrase pos="N">college career</phrase>
+                <phrase pos="V">will provide</phrase>
+                <phrase pos="N">him</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">career</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 10</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Takes</phrase>
+                <phrase pos="N"> psych 101</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Starts</phrase>
+                <phrase pos="V">analyzing</phrase>
+                <phrase pos="N">everyone</phrase>
+                <phrase pos="N">he</phrase>
+                <phrase pos="V">knows</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>College Freshman 11</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">I</phrase>
+                <phrase pos="V">am</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">sophomore</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">IF</phrase>
+                <phrase pos="N">you</phrase>
+                <phrase pos="V">mean</phrase>
+                <phrase pos="PREP">by</phrase>
+                <phrase pos="N">credits</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 12</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">hangs up</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase role="OBJ" pos="N">Bob Marley poster</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="ADV">only</phrase>
+                <phrase pos="V">likes</phrase>
+                <phrase role="OBJ" pos="N">one song</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>College Freshman 13</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">meets</phrase>
+                <phrase pos="DET">someone</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">dining hall</phrase>
+                <phrase pos="ADJ">first</phrase>
+                <phrase pos="N">day</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">Best friend</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    <meme>
+        <title>College Freshman 14</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Raises</phrase>
+                <phrase pos="N">hand</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="ADJ">first</phrase>
+                <phrase pos="N">lecture</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">Can</phrase>
+                <phrase role="SUBJ" pos="N">I</phrase>
+                <phrase pos="V">go to</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">bathroom</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 15</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Asks</phrase>
+                <phrase pos="ADV">where</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">building</phrase>
+                <phrase pos="V">is</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">While</phrase>
+                <phrase role="SUBJ" pos="N">he's</phrase>
+                <phrase pos="ADV">already</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">it</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    
+    <meme>
+        <title>College Freshman 16</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Learns</phrase>
+                <phrase pos="N">three chords</phrase>
+                <phrase pos="PREP">on</phrase>
+                <phrase pos="N">guitar</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Plays</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">quad</phrase>
+                <phrase pos="ADV">so</phrase>
+                <phrase pos="N">everyone</phrase>
+                <phrase pos="V">can hear</phrase>
+            </frag>
+        </text>
+    </meme>
+    
+    
+    <meme>
+        <title>College Freshman 17</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Takes</phrase>
+                <phrase pos="N">computer science</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">watches</phrase>
+                <phrase role="OBJ" pos="N">My Little Pony</phrase>
+                <phrase pos="PREP">during</phrase>
+                <phrase pos="N">class</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 18</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Late to</phrase>
+                <phrase pos="N">class</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Runs</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 19</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Puts</phrase>
+                <phrase pos="ADJ">dirty</phrase>
+                <phrase role="OBJ" pos="N">dishes</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">sink</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Shocked to find</phrase>
+                <phrase role="OBJ" pos="N">them</phrase>
+                <phrase pos="ADV">still there</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">morning</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 20</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Professor</phrase>
+                <phrase pos="V">finishes going over</phrase>
+                <phrase pos="N">syllabus</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">Wait</phrase>
+                <phrase pos="ADV">so</phrase>
+                <phrase pos="V">do we have</phrase>
+                <phrase pos="N">homework</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 21</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Hates</phrase>
+                <phrase pos="N">rival college</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">passion</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">didn't know</phrase>
+                <phrase pos="N">rivalry</phrase>
+                <phrase pos="V">existed</phrase>
+                <phrase pos="PREP">until</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">week</phrase>
+                <phrase pos="PREP">ago</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 22</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">Homework 5</phrase>
+                <phrase pos="V">has</phrase>
+                <phrase pos="ADV">just</phrase>
+                <phrase pos="V">been posted</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Haven't</phrase>
+                <phrase pos="ADV">even</phrase>
+                <phrase pos="V">started</phrase>
+                <phrase pos="N">Homework 4</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 23</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Lend</phrase>
+                <phrase role ="OBJ" pos="N">him your pen</phrase>
+                <phrase pos="PREP">for</phrase>
+                <phrase pos="N">10 seconds</phrase>
+                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">class</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">friend requests</phrase>
+                <phrase pos="N">you</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 24</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Disregard</phrase>
+                <phrase pos="N">sleep</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Acquire</phrase>
+                <phrase role="OBJ" pos="N">nothing</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 25</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Complains</phrase>
+                <phrase pos="PREP">about</phrase>
+                <phrase pos="N">8 am class</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">That's</phrase>
+                <phrase pos="ADV">once</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="N">week</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 26</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Fails</phrase>
+                <phrase role="OBJ" pos="N">test</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="PREP">That</phrase>
+                <phrase role="SUBJ" pos="N">teacher</phrase>
+                <phrase pos="V">is</phrase>
+                <phrase pos="ADV">so</phrase>
+                <phrase pos="ADJ">dumb</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 27</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="ADV">Just</phrase>
+                <phrase pos="V">came</phrase>
+                <phrase pos="PREP">from</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">gym</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Stood</phrase>
+                <phrase pos="ADV">around</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="N">bench press</phrase>
+                <phrase pos="CONJ">and</phrase>
+                <phrase pos="V">talked</phrase>
+            </frag>
+        </text>
+    </meme>
+        <meme>
+        <title>College Freshman 28</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Wants</phrase>
+                <phrase pos="PREP">the</phrase>
+                <phrase pos="ADV">real</phrase>
+                <phrase role="OBJ" pos="N">college experience</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V">Hangs out</phrase>
+                <phrase pos="PREP">with</phrase>
+                <phrase pos="N">friends</phrase>
+                <phrase pos="PREP">from</phrase>
+                <phrase pos="N">high school</phrase>
+                <phrase pos="DET">all</phrase>
+                <phrase pos="N">year</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>College Freshman 29</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Show up late to</phrase>
+                <phrase pos="N">lecture</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" presence="null" pos="N"/>
+                <phrase pos="V">Facebook</phrase>
+                <phrase pos="DET">the</phrase>
+                <phrase pos="ADJ">whole</phrase>
+                <phrase pos="N">time</phrase>
+            </frag>
+        </text>
+    </meme>
+        <meme>
+        <title>College Freshman 30</title>
+        <text type="top-bottom">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">I</phrase>
+                <phrase pos="V">have</phrase>
+                <phrase pos="DET">a</phrase>
+                <phrase pos="ADJ">unique</phrase>
+                <phrase pos="N">sense of style</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="V" presence="null"/>
+                <phrase pos="N">College sweatshirt and nikes</phrase>
+                <phrase pos="ADJ">everyday</phrase>
+            </frag>
+        </text>
+    </meme>
+</memes>
