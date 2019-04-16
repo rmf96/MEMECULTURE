@@ -25,5 +25,8 @@
             fill="green" width="{20}" height="{$presentSUBJ * 300}"/>
         <rect x="{$xPosition + 22}" y="-{$nullSUBJ * 300}" stroke="black" stroke-width=".5"
             fill="red" width="{20}" height="{$nullSUBJ * 300}"/>
+        <text>
+            
+        </text>
     </xsl:template>
 </xsl:stylesheet>
