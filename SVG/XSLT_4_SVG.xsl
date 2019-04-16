@@ -17,5 +17,13 @@
             </g>
         </svg>
     </xsl:template>
-    
+    <xsl:template match="phrase">
+        <xsl:variable name="xPosition" select="(position() - 1) * 30"/>
+        <xsl:variable name="presentSUBJ" select="phrase[@role='SUBJ']"/>
+        <xsl:variable name="nullSUBJ" select="phrase[@role='SUBJ',@presence='null']"/>
+        <rect x="{$xPosition + 22}" y="-{$presentSUBJ * 300}" stroke="black" stroke-width=".5"
+            fill="green" width="{20}" height="{$presentSUBJ * 300}"/>
+        <rect x="{$xPosition + 22}" y="-{$nullSUBJ * 300}" stroke="black" stroke-width=".5"
+            fill="red" width="{20}" height="{$nullSUBJ * 300}"/>
+    </xsl:template>
 </xsl:stylesheet>
