@@ -7,10 +7,12 @@
             <phrase role="SUBJ" pos="N">me</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="N">makeup</phrase>
+            <phrase role="SUBJ" pos="N">This meme</phrase>
         </frag>
         <frag n="3">
-            <phrase pos="N">my skin</phrase>
+            <phrase pos="N">Also me</phrase>
+            <phrase pos="V">knowing how this is</phrase>
+            <phrase pos="N">a way overdone meme</phrase>
         </frag>
     </text>
 </meme>

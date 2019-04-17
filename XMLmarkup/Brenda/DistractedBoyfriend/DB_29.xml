@@ -7,10 +7,13 @@
             <phrase role="SUBJ" pos="N">me</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="N">my bank account</phrase>
+            <phrase pos="N">normal healthy sleep schedule</phrase>
         </frag>
         <frag n="3">
-            <phrase pos="N">my amazon wishlist</phrase>
+            <phrase pos="V">Staying up</phrase>
+            <phrase pos="PREP">for</phrase>
+            <phrase pos="DET">no</phrase>
+            <phrase pos="N">reason</phrase>
         </frag>
     </text>
 </meme>

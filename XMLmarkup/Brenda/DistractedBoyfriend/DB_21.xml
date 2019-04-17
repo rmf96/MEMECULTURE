@@ -4,13 +4,17 @@
     <title>Distracted Boyfriend 21</title>
     <text type="floating">
         <frag n="1">
-            <phrase role="SUBJ" pos="N">America</phrase>
+            <phrase role="SUBJ" pos="N">Tumblr</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="N">American's oil</phrase>
+            <phrase pos="N">The real world</phrase>
         </frag>
         <frag n="3">
-            <phrase pos="N">Other countries' oil</phrase>
+            <phrase pos="N">Edgy political philosophies</phrase>
+            <phrase pos="PREP">that</phrase>
+            <phrase pos="V">only work</phrase>
+            <phrase pos="DET">in</phrase>
+            <phrase pos="N">theory</phrase>
         </frag>
     </text>
 </meme>

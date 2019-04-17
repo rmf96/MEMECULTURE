@@ -4,19 +4,13 @@
     <title>Distracted Boyfriend 24</title>
     <text type="floating">
         <frag n="1">
-            <phrase role="SUBJ" pos="N">me</phrase>
+            <phrase role="SUBJ" pos="N">TWitter user aware of the stigma against unironic use of an oversaturated meme</phrase>
         </frag>
         <frag n="2">
-            <phrase pos="N">my dad's ghost</phrase>
+            <phrase pos="N">Oversaturate meme</phrase>
         </frag>
         <frag n="3">
-            <phrase role="SUBJ" presence="null" pos="N"/>
-            <phrase pos="N">a friend</phrase>
-            <phrase pos="V">who thinks</phrase>
-            <phrase pos="N">the ghost</phrase>
-            <phrase pos="V">will drive </phrase>
-            <phrase pos="N">me insane</phrase>
-            
+            <phrase pos="N">Meta meme about the meme</phrase>
         </frag>
     </text>
 </meme>
