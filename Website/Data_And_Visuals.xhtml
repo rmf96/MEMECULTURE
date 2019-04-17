@@ -59,19 +59,40 @@
         <div id="second">
             <h1>Data and Visuals</h1>
             <h2>Overview</h2>
-            <p>The following bar graph depicts the presence, absence, and frequency of subjects
-            in the syntactic structure of each meme from our corpus of 12 meme templates and 360 
-            total memes. On the x axis are two variables, 'present' and 'absent', denoting the 
-            presence or absence of a subject in a meme. The y-axis measures the frequency of the
-            number of times there is a present or absent subject. We realize that this bar graph,
-            while it records valid data, is a simplistic representation of a detailed array
-            of data. Before the end of the semester, we plan on adding in more graphs that
-            represent more detailed information about our corpus such as specific percentage 
-            values regarding subject presence or a heat map for the different types of templates
-            in our corpus.</p>
+            <p>The following bar graph depicts the presence, absence, and frequency of subjects in
+                the syntactic structure of each meme from our corpus of 12 meme templates and 360
+                total memes. On the x axis are two variables, 'present' and 'absent', denoting the
+                presence or absence of a subject in a meme. The y-axis measures the frequency of the
+                number of times there is a present or absent subject. We realize that this bar
+                graph, while it records valid data, is a simplistic representation of a detailed
+                array of data. Before the end of the semester, we plan on adding in more graphs that
+                represent more detailed information about our corpus such as specific percentage
+                values regarding subject presence or a heat map for the different types of templates
+                in our corpus.</p>
             <h2>Present vs Null Subject: Raw Data</h2>
+            <!-- Raw Data Graph -->
             <!--#include virtual="SVG_with_David.xhtml" -->
-            <p>Graph to be put here NLT Wednesday morning.</p>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="null-svg">
+                <svg xmlns="http://www.w3.org/2000/svg" height="375">
+                    <g transform="translate(50, 330)">
+                        <line x1="0" x2="0" y1="0" y2="-320" stroke="black" stroke-width="1"/>
+                        <line x1="0" x2="400" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                        <text x="-10" y="5" text-anchor="end">0</text>
+                        <text x="-10" y="-145" text-anchor="end">150</text>
+                        <text x="-10" y="-295" text-anchor="end">300</text>
+                        <text x="40" y="20" text-anchor="start">Null</text>
+                        <text x="140" y="20" text-anchor="start">Non-Null</text>
+                        <text x="45" y="-270" text-anchor="start" font-size="35">262</text>
+                        <text x="145" y="-225" text-anchor="start" font-size="35">217</text>
+                        <rect x="40" y="-262" width="60" height="262" fill="red"/>
+                        <rect x="140" y="-217" width="60" height="217" fill="green"/>
+                        <line x1="0" x2="400" y1="-150" y2="-150" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                    </g>
+                </svg>
+            </div>
+            <!-- End Raw Data Graph -->
+            <p>Explain this</p>
             <h2>Present vs Null Subject: Percentage</h2>
             <p>Graph to be added.</p>
         </div>
