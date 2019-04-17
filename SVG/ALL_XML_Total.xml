@@ -5766,7 +5766,6 @@
             </frag>
         </text>
     </meme>
-    
     <meme>
         <title>Distracted Boyfriend 19</title>
         <text type="floating">
@@ -5774,11 +5773,11 @@
                 <phrase role="SUBJ" pos="N">me</phrase>
             </frag>
             <frag n="2">
-                <phrase pos="V">running away to live</phrase>
-                <phrase pos="N">in the woods</phrase>
+                <phrase pos="N">all the instruments I</phrase>
+                <phrase pos="V">can't play</phrase>
             </frag>
             <frag n="3">
-                <phrase pos="N">College, parents, capitalism</phrase>
+                <phrase pos="N">my instruments</phrase>
             </frag>
         </text>
     </meme>
@@ -5786,14 +5785,13 @@
         <title>Distracted Boyfriend 20</title>
         <text type="floating">
             <frag n="1">
-                <phrase role="SUBJ" pos="N">me</phrase>
+                <phrase role="SUBJ" pos="N">Henry VII</phrase>
             </frag>
             <frag n="2">
-                <phrase pos="N">my instruments</phrase>
+                <phrase role="SUBJ" pos="N">Katherine of Argon</phrase>
             </frag>
             <frag n="3">
-                <phrase pos="N">all the intruments I</phrase>
-                <phrase pos="V">can't play</phrase>
+                <phrase role="SUBJ" pos="N">Anne Boleyn</phrase>
             </frag>
         </text>
     </meme>
@@ -5801,49 +5799,22 @@
         <title>Distracted Boyfriend 21</title>
         <text type="floating">
             <frag n="1">
-                <phrase role="SUBJ" pos="N">America</phrase>
-            </frag>
-            <frag n="2">
-                <phrase pos="N">American's oil</phrase>
-            </frag>
-            <frag n="3">
-                <phrase pos="N">Other countries' oil</phrase>
-            </frag>
-        </text>
-    </meme>
-    <meme>
-        <title>Distracted Boyfriend 22</title>
-        <text type="floating">
-            <frag n="1">
-                <phrase role="SUBJ" pos="N">Henry VII</phrase>
-            </frag>
-            <frag n="2">
-                <phrase pos="N">Katherine of Aragon</phrase>
-            </frag>
-            <frag n="3">
-                <phrase pos="">Anne Boleyn</phrase>
-            </frag>
-        </text>
-    </meme>
-    <meme>
-        <title>Distracted Boyfriend 23</title>
-        <text type="floating">
-            <frag n="1">
                 <phrase role="SUBJ" pos="N">Tumblr</phrase>
             </frag>
             <frag n="2">
-                <phrase pos="N">the real world</phrase>
+                <phrase pos="N">The real world</phrase>
             </frag>
             <frag n="3">
-                <phrase pos="N">edgy political philosophies</phrase>
-                <phrase pos="V">that only work</phrase>
-                <phrase pos="PREP">in</phrase>
+                <phrase pos="N">Edgy political philosophies</phrase>
+                <phrase pos="PREP">that</phrase>
+                <phrase pos="V">only work</phrase>
+                <phrase pos="DET">in</phrase>
                 <phrase pos="N">theory</phrase>
             </frag>
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 24</title>
+        <title>Distracted Boyfriend 22</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">me</phrase>
@@ -5858,11 +5829,12 @@
                 <phrase pos="N">the ghost</phrase>
                 <phrase pos="V">will drive </phrase>
                 <phrase pos="N">me insane</phrase>
+                
             </frag>
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 25</title>
+        <title>Distracted Boyfriend 23</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">me</phrase>
@@ -5876,7 +5848,7 @@
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 26</title>
+        <title>Distracted Boyfriend 24</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">TWitter user aware of the stigma against unironic use of an oversaturated meme</phrase>
@@ -5890,7 +5862,7 @@
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 27</title>
+        <title>Distracted Boyfriend 25</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">me</phrase>
@@ -5904,7 +5876,7 @@
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 28</title>
+        <title>Distracted Boyfriend 26</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">me</phrase>
@@ -5918,7 +5890,7 @@
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 29</title>
+        <title>Distracted Boyfriend 27</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">me</phrase>
@@ -5932,7 +5904,23 @@
         </text>
     </meme>
     <meme>
-        <title>Distracted Boyfriend 30</title>
+        <title>Distracted Boyfriend 28</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase role="SUBJ" pos="N">This meme</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">Also me</phrase>
+                <phrase pos="V">knowing how this is</phrase>
+                <phrase pos="N">a way overdone meme</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 29</title>
         <text type="floating">
             <frag n="1">
                 <phrase role="SUBJ" pos="N">me</phrase>
@@ -5945,6 +5933,20 @@
                 <phrase pos="PREP">for</phrase>
                 <phrase pos="DET">no</phrase>
                 <phrase pos="N">reason</phrase>
+            </frag>
+        </text>
+    </meme>
+    <meme>
+        <title>Distracted Boyfriend 30</title>
+        <text type="floating">
+            <frag n="1">
+                <phrase role="SUBJ" pos="N">me</phrase>
+            </frag>
+            <frag n="2">
+                <phrase pos="N">triple chocolate cake</phrase>
+            </frag>
+            <frag n="3">
+                <phrase pos="N">a healthy diet</phrase>
             </frag>
         </text>
     </meme>
