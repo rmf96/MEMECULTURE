@@ -7,7 +7,7 @@
             <head>
                 <title>Meme translations</title>
             </head>
-            <link rel="stylesheet" type="text/css" href="XSLTMeme.css"/>
+            <link rel="stylesheet" type="text/css" href="Home_Page.css"/>
             <body>
                 <h1>Meme Collection</h1>
                 <h2>Table of contents</h2>
