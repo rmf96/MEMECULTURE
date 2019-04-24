@@ -30,12 +30,12 @@
         </h2>
         <p><xsl:apply-templates select="text"/></p>
     </xsl:template>
-    <xsl:template match="phrase">
+<!--    <xsl:template match="phrase">
         <p>
             <xsl:apply-templates select="@pos"/>
         </p>
     </xsl:template>
     <xsl:template match="frag">
         <xsl:apply-templates select="/"/>
-    </xsl:template>
+    </xsl:template> -->
 </xsl:stylesheet>
