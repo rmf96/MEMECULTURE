@@ -33,9 +33,7 @@
         </p>
     </xsl:template>
     <xsl:template match="frag">
-        <p>
             <xsl:apply-templates/>
-        </p>
     </xsl:template>
     <xsl:template match="phrase">
         <span class="{string-join(@*, ' ')}">
@@ -43,5 +41,4 @@
             <xsl:if test="empty(node())">[null]</xsl:if>
         </span>
     </xsl:template>
-
 </xsl:stylesheet>
