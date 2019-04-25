@@ -11,23 +11,10 @@
                     <text x="-10" y="5" text-anchor="end">0</text>
                     <text x="-10" y="-145" text-anchor="end">50</text>
                     <text x="-10" y="-295" text-anchor="end">100</text>
-                   
-                    <!-- Don't know if I need this 
-                    <xsl:variable name="nonNullPCT" as="xs:integer"
-                        select="count(//meme[not(descendant::phrase[@role = 'SUBJ' and @presence])])"/>
-                    <xsl:variable name="nullPCT" as="xs:integer"
-                        select="count(//meme[descendant::phrase[@role = 'SUBJ' and @presence]])"/>
-                    <rect x="5" y="-{$nonNullPCT}" width="60" height="{$nonNullPCT}" fill="red"/>
-                    <rect x="70" y="-{$nullPCT}" width="60" height="{$nullPCT}" fill="blue"/> -->
-                    
                     <line x1="0" x2="600" y1="-150" y2="-150" stroke="black" opacity="0.5"
                         stroke-dasharray="8 4" stroke-width="1"/>
                     <xsl:variable name="xPosition" select="(position() - 1) * 30"/>
                     <xsl:variable name="totalSUBJ" select="count(//meme[descendant::phrase[@role= 'SUBJ']])"/>
-                    
-                    <!--  May not need this either   <xsl:variable name="totalNull" select="sum(//meme[descendant::phrase[@role = 'SUBJ' and @presence]])"/>
-        <xsl:variable name="totalNonNull" select="sum(//meme[not(descendant::phrase[@role = 'SUBJ' and @presence])])"/>   -->
-                    
                     <xsl:variable name="presentSUBJ" select="count(//meme[descendant::phrase[@role = 'SUBJ' and @presence]])"/>
                     <xsl:variable name="nullSUBJ" select="count(//meme[not(descendant::phrase[@role = 'SUBJ' and @presence])])"/>
                     <xsl:variable name="presentSUBJpercent" select="$presentSUBJ div $totalSUBJ"/>

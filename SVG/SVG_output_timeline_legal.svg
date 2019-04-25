@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="575">
+   <g transform="translate(50, 330)">
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-320"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            x2="1000"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="-10" y="5" text-anchor="end">0</text>
+      <text x="-10" y="-145" text-anchor="end">50</text>
+      <text x="-10" y="-295" text-anchor="end">100</text>
+      <line x1="0"
+            x2="1000"
+            y1="-150"
+            y2="-150"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <rect x="50"
+            y="-213.559322033898305085"
+            width="35"
+            height="213.559322033898305085"
+            fill="orange"/>
+      <text x="50" y="20" transform="translate(2, 35) rotate(90 80 0)">Success Kid (2008)</text>
+      <text x="67.5"
+            y="-228.559322033898305085"
+            stroke="black"
+            text-anchor="middle">71.19</text>
+      <rect x="100" y="-187.5" width="35" height="187.5" fill="orange"/>
+      <text x="100" y="20" transform="translate(2, 35) rotate(90 130 0)">Doge (2010)</text>
+      <text x="117.5" y="-202.5" stroke="black" text-anchor="middle">62.50</text>
+      <rect x="150"
+            y="-294.545454545454545455"
+            width="35"
+            height="294.545454545454545455"
+            fill="orange"/>
+      <text x="150" y="20" transform="translate(2, 35) rotate(90 180 0)">Scumbag Steve (2011)</text>
+      <text x="167.5"
+            y="-309.545454545454545455"
+            stroke="black"
+            text-anchor="middle">98.18</text>
+      <rect x="200"
+            y="-237.735849056603773585"
+            width="35"
+            height="237.735849056603773585"
+            fill="orange"/>
+      <text x="200" y="20" transform="translate(2, 35) rotate(90 230 0)">College Freshman (2011)</text>
+      <text x="217.5"
+            y="-252.735849056603773585"
+            stroke="black"
+            text-anchor="middle">79.25</text>
+      <rect x="250"
+            y="-250.819672131147540984"
+            width="35"
+            height="250.819672131147540984"
+            fill="orange"/>
+      <text x="250" y="20" transform="translate(2, 35) rotate(90 280 0)">Bad Luck Brian (2012)</text>
+      <text x="267.5"
+            y="-265.819672131147540984"
+            stroke="black"
+            text-anchor="middle">83.61</text>
+      <rect x="300"
+            y="-14.285714285714285714"
+            width="35"
+            height="14.285714285714285714"
+            fill="orange"/>
+      <text x="300" y="20" transform="translate(2, 35) rotate(90 330 0)">Drake (2016)</text>
+      <text x="317.5"
+            y="-29.285714285714285714"
+            stroke="black"
+            text-anchor="middle">4.76</text>
+      <rect x="350" y="-0" width="35" height="0" fill="orange"/>
+      <text x="350" y="20" transform="translate(2, 35) rotate(90 380 0)">Arthur's Fist (2016)</text>
+      <text x="367.5" y="-15" stroke="black" text-anchor="middle">0.00</text>
+      <rect x="400"
+            y="-77.419354838709677419"
+            width="35"
+            height="77.419354838709677419"
+            fill="orange"/>
+      <text x="400" y="20" transform="translate(2, 35) rotate(90 430 0)">Math Lady (2016)</text>
+      <text x="417.5"
+            y="-92.419354838709677419"
+            stroke="black"
+            text-anchor="middle">25.81</text>
+      <rect x="450"
+            y="-78.947368421052631579"
+            width="35"
+            height="78.947368421052631579"
+            fill="orange"/>
+      <text x="450" y="20" transform="translate(2, 35) rotate(90 480 0)">Distracted Boyfriend (2017)</text>
+      <text x="467.5"
+            y="-93.947368421052631579"
+            stroke="black"
+            text-anchor="middle">26.32</text>
+      <rect x="500"
+            y="-88.235294117647058824"
+            width="35"
+            height="88.235294117647058824"
+            fill="orange"/>
+      <text x="500" y="20" transform="translate(2, 35) rotate(90 530 0)">Roll Safe (2017)</text>
+      <text x="517.5"
+            y="-103.235294117647058824"
+            stroke="black"
+            text-anchor="middle">29.41</text>
+      <rect x="550" y="-0" width="35" height="0" fill="orange"/>
+      <text x="550" y="20" transform="translate(2, 35) rotate(90 580 0)">Lisa Simpson Powerpoint (2018)</text>
+      <text x="567.5" y="-15" stroke="black" text-anchor="middle">0.00</text>
+      <rect x="600" y="-0" width="35" height="0" fill="orange"/>
+      <text x="600" y="20" transform="translate(2, 35) rotate(90 630 0)">Savage Patrick (2018)</text>
+      <text x="617.5" y="-15" stroke="black" text-anchor="middle">0.00</text>
+   </g>
+</svg>
