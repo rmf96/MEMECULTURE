@@ -14,11 +14,11 @@
         <svg height="575" xmlns="http://www.w3.org/2000/svg">
             <g transform="translate(50, 330)">
                 <line x1="0" x2="0" y1="0" y2="-320" stroke="black" stroke-width="1"/>
-                <line x1="0" x2="1000" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                <line x1="0" x2="650" y1="0" y2="0" stroke="black" stroke-width="1"/>
                 <text x="-10" y="5" text-anchor="end">0</text>
                 <text x="-10" y="-145" text-anchor="end">50</text>
                 <text x="-10" y="-295" text-anchor="end">100</text>
-                <line x1="0" x2="1000" y1="-150" y2="-150" stroke="black" opacity="0.5"
+                <line x1="0" x2="650" y1="-150" y2="-150" stroke="black" opacity="0.5"
                     stroke-dasharray="8 4" stroke-width="1"/>
                 <xsl:for-each-group select="//meme"
                     group-by="normalize-space(replace(title, '\d+', ''))">
@@ -44,11 +44,4 @@
             </g>
         </svg>
     </xsl:template>
-    <!--<xsl:template match="meme">
-        <xsl:variable name="totalMeme" select="30"/>
-        <xsl:variable name="nullSUBJ" select="count(//meme[not(descendant::phrase[@role = 'SUBJ' and @presence])])"/>
-        <xsl:variable name="nullSUBJpercent" select="$nullSUBJ div $totalMeme"/>
-        <rect x="50" y="-{$nullSUBJpercent * 300}" stroke="black" stroke-width=".5"
-            fill="yellow" width="{20}" height="{$nullSUBJpercent * 300}"/>
-    </xsl:template>-->
 </xsl:stylesheet>
